@@ -2295,3 +2295,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Apr2025 20:54:17.170] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@61fba3f9[id=<null>,name=MawMaw,properties={},legacy=false] (/127.95.65.140:42841) lost connection: Disconnected
 [20Apr2025 20:54:35.771] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3948657d[id=<null>,name=MawMaw,properties={},legacy=false] (/127.95.65.140:42543) lost connection: Disconnected
 [20Apr2025 20:55:46.870] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2c0a264[id=<null>,name=MawMaw,properties={},legacy=false] (/127.95.65.140:36757) lost connection: Disconnected
+[20Apr2025 20:58:55.081] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MawMaw123[/127.95.65.140:52681] logged in with entity id 2706 at (-625.4933751729335, 70.0, 351.18829721386123)
+[20Apr2025 20:58:55.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 joined the game
+[20Apr2025 20:59:18.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MawMaw123> hola
+[20Apr2025 20:59:21.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MawMaw123> culo
+[20Apr2025 20:59:25.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MawMaw123> sexo
+[20Apr2025 20:59:33.879] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MawMaw123 lost connection: Disconnected
+[20Apr2025 20:59:33.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 left the game
+[20Apr2025 20:59:41.928] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MawMaw123[/127.95.65.140:39787] logged in with entity id 3401 at (-625.4933751729335, 70.0, 351.18829721386123)
+[20Apr2025 20:59:41.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 joined the game
+[20Apr2025 20:59:52.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MawMaw123> culo
+[20Apr2025 20:59:55.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MawMaw123> culo
+[20Apr2025 20:59:57.825] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MawMaw123 lost connection: Disconnected
+[20Apr2025 20:59:57.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 left the game
+[20Apr2025 21:02:15.420] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@cbe8585[id=<null>,name=MawMaw123,properties={},legacy=false] (/127.95.65.140:42211) lost connection: Disconnected
+[20Apr2025 21:03:03.027] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MawMaw123[/127.95.65.140:58611] logged in with entity id 4060 at (-625.4933751729335, 70.0, 351.18829721386123)
+[20Apr2025 21:03:03.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 joined the game
+[20Apr2025 21:03:09.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MawMaw123> culo
+[20Apr2025 21:03:11.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MawMaw123> culñop
+[20Apr2025 21:03:12.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MawMaw123> xczñkjsfñda
