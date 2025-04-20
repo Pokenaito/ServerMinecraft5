@@ -2314,3 +2314,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Apr2025 21:03:09.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MawMaw123> culo
 [20Apr2025 21:03:11.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MawMaw123> culñop
 [20Apr2025 21:03:12.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MawMaw123> xczñkjsfñda
+[20Apr2025 21:14:06.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MawMaw123 lost connection: Disconnected
+[20Apr2025 21:14:06.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 left the game
+[20Apr2025 21:15:24.077] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MawMaw123[/127.95.65.140:45135] logged in with entity id 7056 at (-683.3024865364778, 63.0, 418.00407934193584)
+[20Apr2025 21:15:24.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 joined the game
