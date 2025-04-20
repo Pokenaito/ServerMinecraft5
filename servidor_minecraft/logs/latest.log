@@ -2272,3 +2272,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Apr2025 20:42:51.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 joined the game
 [20Apr2025 20:43:21.575] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MawMaw123 lost connection: Timed out
 [20Apr2025 20:43:21.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 left the game
+[20Apr2025 20:46:57.381] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MawMaw123[/127.95.65.140:41215] logged in with entity id 1660 at (-625.4933751729335, 70.0, 351.18829721386123)
+[20Apr2025 20:46:57.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 joined the game
+[20Apr2025 20:47:12.423] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2324, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.30] died, message: 'Villager was killed'
+[20Apr2025 20:47:39.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MawMaw123> gaga
+[20Apr2025 20:47:44.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MawMaw123> gag
+[20Apr2025 20:47:49.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MawMaw123> agag
+[20Apr2025 20:47:57.527] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MawMaw123 lost connection: Timed out
+[20Apr2025 20:47:57.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 left the game
+[20Apr2025 20:51:57.425] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MawMaw[/127.95.65.140:54325] logged in with entity id 2383 at (-41.5, 76.0, 103.5)
+[20Apr2025 20:51:57.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw joined the game
+[20Apr2025 20:51:57.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw has reached the goal [Choose Your Class]
+[20Apr2025 20:51:57.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw has completed the challenge [The Undead]
+[20Apr2025 20:52:17.423] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2570, l='ServerLevel[world]', x=-231.76, y=-256.00, z=109.69] died, message: 'Villager was killed'
+[20Apr2025 20:52:31.424] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MawMaw lost connection: Timed out
+[20Apr2025 20:52:31.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw left the game
+[20Apr2025 20:52:56.427] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MawMaw[/127.95.65.140:53197] logged in with entity id 2584 at (-41.5, 76.0, 103.5)
+[20Apr2025 20:52:56.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw joined the game
+[20Apr2025 20:53:29.124] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MawMaw lost connection: Disconnected
+[20Apr2025 20:53:29.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw left the game
+[20Apr2025 20:54:02.826] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6f2a039b[id=<null>,name=MawMaw,properties={},legacy=false] (/127.95.65.140:54267) lost connection: Disconnected
+[20Apr2025 20:54:17.170] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@61fba3f9[id=<null>,name=MawMaw,properties={},legacy=false] (/127.95.65.140:42841) lost connection: Disconnected
+[20Apr2025 20:54:35.771] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3948657d[id=<null>,name=MawMaw,properties={},legacy=false] (/127.95.65.140:42543) lost connection: Disconnected
+[20Apr2025 20:55:46.870] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2c0a264[id=<null>,name=MawMaw,properties={},legacy=false] (/127.95.65.140:36757) lost connection: Disconnected
