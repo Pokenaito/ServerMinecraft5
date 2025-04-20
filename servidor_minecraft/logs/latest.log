@@ -2876,3 +2876,20 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [20Apr2025 04:37:21.640] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9516, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.30] died, message: 'Villager was killed'
 [20Apr2025 04:39:37.098] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CalbiBaa lost connection: Disconnected
 [20Apr2025 04:39:37.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa left the game
+[20Apr2025 04:43:13.640] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10587, l='ServerLevel[world]', x=-734.58, y=-256.00, z=301.45] died, message: 'Villager was killed'
+[20Apr2025 04:44:33.106] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: leche[/127.16.25.131:56787] logged in with entity id 10802 at (-40.5, 79.0, 116.5)
+[20Apr2025 04:44:33.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: leche joined the game
+[20Apr2025 04:44:33.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: leche has reached the goal [Choose Your Class]
+[20Apr2025 04:44:33.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: leche has completed the challenge [The Undead]
+[20Apr2025 04:44:59.549] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: leche lost connection: Disconnected
+[20Apr2025 04:44:59.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: leche left the game
+[20Apr2025 04:45:56.204] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lechina[/127.16.25.131:43815] logged in with entity id 11296 at (-43.5, 76.0, 104.5)
+[20Apr2025 04:45:56.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lechina joined the game
+[20Apr2025 04:45:56.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lechina has reached the goal [Choose Your Class]
+[20Apr2025 04:45:56.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lechina has completed the challenge [The Undead]
+[20Apr2025 04:46:04.950] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lechina lost connection: Disconnected
+[20Apr2025 04:46:04.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lechina left the game
+[20Apr2025 04:46:43.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> alv este marico esta aqui
+[20Apr2025 04:46:48.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> me cague
+[20Apr2025 04:46:53.805] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.16.25.131:37783] logged in with entity id 11615 at (-639.801404019146, 63.0, 402.98306094138445)
+[20Apr2025 04:46:53.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
