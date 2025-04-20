@@ -2270,3 +2270,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Apr2025 15:19:26.345] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:36325] logged in with entity id 69 at (-659.7838042139251, 63.0, 403.3969559170327)
 [20Apr2025 15:19:26.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
 [20Apr2025 15:19:28.465] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2160ms or 43 ticks behind
+[20Apr2025 15:29:03.413] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[20Apr2025 15:29:03.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[20Apr2025 15:29:16.469] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.16.25.131:37319] logged in with entity id 3693 at (-587.6290957910072, 54.0, 408.61875296104444)
+[20Apr2025 15:29:16.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
