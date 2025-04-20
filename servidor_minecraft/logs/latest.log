@@ -2352,3 +2352,37 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [20Apr2025 15:39:54.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> no xd
 [20Apr2025 15:41:33.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> como vas?
 [20Apr2025 15:41:44.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Ampliando terrenos mijo
+[20Apr2025 15:41:53.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Mira
+[20Apr2025 15:42:11.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina liquified to Fanta juice
+[20Apr2025 15:42:29.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> que paso xd
+[20Apr2025 15:42:48.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> que es eso?
+[20Apr2025 15:42:57.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Dejame cocinar este terreno
+[20Apr2025 15:43:01.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> XD
+[20Apr2025 15:43:11.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> te dejo tranquilo?
+[20Apr2025 15:43:24.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Nel
+[20Apr2025 15:43:31.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Me ayudas a podar matas?
+[20Apr2025 15:43:39.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> cuanto?
+[20Apr2025 15:43:46.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> carajo a dormir
+[20Apr2025 15:43:48.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> XD
+[20Apr2025 15:44:09.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> padre nuestro que estas en el cielo
+[20Apr2025 15:44:19.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> santificado ese creeper no me explote
+[20Apr2025 15:50:11.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! 0.27775316778456727,1.0013359791121417,-10.297300816317716
+[20Apr2025 15:50:15.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 was kicked for floating too long!
+[20Apr2025 15:50:15.462] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Flying is not enabled on this server
+[20Apr2025 15:50:15.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[20Apr2025 15:50:17.662] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 lost connection: Timed out
+[20Apr2025 15:50:17.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 left the game
+[20Apr2025 15:50:18.660] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Timed out
+[20Apr2025 15:50:18.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[20Apr2025 15:50:29.915] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.16.25.131:35587] logged in with entity id 12972 at (-627.3699600322603, 63.0, 403.0588272399358)
+[20Apr2025 15:50:29.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[20Apr2025 15:50:32.132] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.63.117.68:51663] logged in with entity id 13561 at (-599.231653371415, 63.0, 411.80117402363163)
+[20Apr2025 15:50:32.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[20Apr2025 15:50:46.378] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:34625] logged in with entity id 13625 at (-662.5228970266969, 63.7531999805212, 377.0389917538613)
+[20Apr2025 15:50:46.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[20Apr2025 15:50:56.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> alareverga
+[20Apr2025 15:51:21.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> oah bro
+[20Apr2025 15:55:53.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> No duermo bro
+[20Apr2025 15:56:02.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> No digas eso
+[20Apr2025 15:58:36.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has completed the challenge [Well, that was disgusting]
+[20Apr2025 16:01:52.107] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17773, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.30] died, message: 'Villager was killed'
