@@ -2386,3 +2386,8 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [20Apr2025 15:56:02.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> No digas eso
 [20Apr2025 15:58:36.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has completed the challenge [Well, that was disgusting]
 [20Apr2025 16:01:52.107] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17773, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.30] died, message: 'Villager was killed'
+[20Apr2025 16:04:20.858] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18778, l='ServerLevel[world]', x=-661.51, y=-256.00, z=409.96] died, message: 'Villager was killed'
+[20Apr2025 16:05:16.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has completed the challenge [+PARRY]
+[20Apr2025 16:16:59.857] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26036, l='ServerLevel[world]', x=-662.03, y=-256.00, z=410.00] died, message: 'Villager was killed'
+[20Apr2025 16:20:09.707] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26790, l='ServerLevel[world]', x=-662.03, y=-256.00, z=410.00] died, message: 'Villager was killed'
+[20Apr2025 16:22:17.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> que paso Papi?
