@@ -2509,3 +2509,44 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [20Apr2025 18:12:56.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> lo unico que te falta es la Paja
 [20Apr2025 18:13:01.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> tengo 64
 [20Apr2025 18:13:03.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> esa se consigue con el cuchillo
+[20Apr2025 18:14:00.356] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/64328, l='ServerLevel[world]', x=-765.40, y=-256.00, z=338.90] died, message: 'Villager was killed'
+[20Apr2025 18:14:12.106] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/64364, l='ServerLevel[world]', x=-765.25, y=-256.00, z=350.01] died, message: 'Villager was killed'
+[20Apr2025 18:14:22.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> a dormir
+[20Apr2025 18:15:09.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> argenis dormi porfa
+[20Apr2025 18:15:15.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> para poner una cerca
+[20Apr2025 18:15:25.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Y no me salgan mas monstros
+[20Apr2025 18:17:22.965] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[20Apr2025 18:17:22.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[20Apr2025 18:17:30.229] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:51863] logged in with entity id 65410 at (-659.5176448951106, 63.0, 403.9068323635112)
+[20Apr2025 18:17:30.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[20Apr2025 18:18:46.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> argeniz tengo que ponerle hongos?
+[20Apr2025 18:19:16.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> sip se procesa mas rapido
+[20Apr2025 18:19:26.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> hay en el estante del medio de la cocina
+[20Apr2025 18:19:57.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Listo
+[20Apr2025 18:20:00.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> pasame unas 10
+[20Apr2025 18:20:05.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Si tal vaina tienes mas?
+[20Apr2025 18:20:11.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> si
+[20Apr2025 18:20:14.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> gracia
+[20Apr2025 18:20:14.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Damelos
+[20Apr2025 18:20:25.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> los deje por mi casa voy xdf
+[20Apr2025 18:20:30.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> XD
+[20Apr2025 18:20:42.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Epa yava
+[20Apr2025 18:20:46.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> JOJO
+[20Apr2025 18:20:53.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> hazme un favor
+[20Apr2025 18:20:58.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> dime
+[20Apr2025 18:21:00.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Acompáñame
+[20Apr2025 18:21:15.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> : O
+[20Apr2025 18:21:23.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Ya va
+[20Apr2025 18:21:43.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> aja
+[20Apr2025 18:21:53.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Agarra ese martillo
+[20Apr2025 18:21:59.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> que encatamiento te da?
+[20Apr2025 18:22:08.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> No lo vais a encantar
+[20Apr2025 18:22:15.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> decime primero que encantamiento te da
+[20Apr2025 18:22:18.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> el 30
+[20Apr2025 18:22:33.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> eficiencia iv
+[20Apr2025 18:22:36.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Nojoda
+[20Apr2025 18:22:38.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> damelo
+[20Apr2025 18:22:54.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Quiero corte o otro encatamiento que cagada
+[20Apr2025 18:23:07.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Enchanter]
+[20Apr2025 18:23:22.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> por lo menos irrompibilidad
+[20Apr2025 18:23:24.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> que te salio?

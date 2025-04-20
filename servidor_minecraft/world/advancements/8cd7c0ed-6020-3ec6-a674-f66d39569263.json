@@ -2487,5 +2487,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-04-20 18:22:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
