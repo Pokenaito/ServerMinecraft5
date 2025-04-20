@@ -2114,6 +2114,7 @@
       "tomato": "2025-04-19 05:52:24 +0000",
       "rice": "2025-04-20 16:27:45 +0000",
       "potato": "2025-04-19 05:55:21 +0000",
+      "red_mushroom": "2025-04-20 18:25:56 +0000",
       "wheat": "2025-04-18 04:42:22 +0000",
       "carrot": "2025-04-19 05:59:01 +0000"
     },
@@ -4567,27 +4568,27 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_stew": {
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
     "criteria": {
-      "has_any_ingredient": "2025-04-20 18:20:09 +0000"
+      "has_smelting_upgrade": "2025-04-20 17:29:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-04-20 17:29:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-04-20 17:29:49 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/tools/lead_from_straw": {
     "criteria": {
       "has_straw": "2025-04-20 18:02:57 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_organic_compost": {
-    "criteria": {
-      "place_organic_compost": "2025-04-20 18:14:37 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2025-04-20 17:29:49 +0000"
     },
     "done": true
   },
@@ -4609,27 +4610,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2025-04-20 17:29:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_red_mushroom": "2025-04-20 18:20:09 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/misc/canvas": {
     "criteria": {
       "has_straw": "2025-04-20 18:02:57 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2025-04-20 17:29:49 +0000"
     },
     "done": true
   },
@@ -4642,6 +4625,24 @@
   "farmersdelight:main/harvest_straw": {
     "criteria": {
       "harvest_straw": "2025-04-20 18:02:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_organic_compost": {
+    "criteria": {
+      "place_organic_compost": "2025-04-20 18:14:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-20 18:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-04-20 18:20:09 +0000"
     },
     "done": true
   },

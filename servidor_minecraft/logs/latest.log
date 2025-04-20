@@ -2550,3 +2550,35 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [20Apr2025 18:23:07.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Enchanter]
 [20Apr2025 18:23:22.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> por lo menos irrompibilidad
 [20Apr2025 18:23:24.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> que te salio?
+[20Apr2025 18:23:58.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Irrompibilidd y Eficiencia, la eficiencia sirve para pura verga pero Por lo menos tengo Irromnpibilidad
+[20Apr2025 18:24:19.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Me quedan 30 niveles quieres que te encante algo?
+[20Apr2025 18:24:29.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> ah no ya
+[20Apr2025 18:24:44.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> si, un pico
+[20Apr2025 18:24:52.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> tejo me acorde de mi pico XD
+[20Apr2025 18:25:18.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Veeerga Toque de seda
+[20Apr2025 18:25:24.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> buenisimo
+[20Apr2025 18:25:42.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> ahora puedes mover variaas cosas
+[20Apr2025 18:26:22.367] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[20Apr2025 18:26:22.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[20Apr2025 18:27:24.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! -8.879580391990203,1.1661092609382138,-4.618144980969248
+[20Apr2025 18:27:28.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina was kicked for floating too long!
+[20Apr2025 18:27:28.962] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Flying is not enabled on this server
+[20Apr2025 18:27:28.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[20Apr2025 18:27:31.064] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 lost connection: Disconnected
+[20Apr2025 18:27:31.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 left the game
+[20Apr2025 18:27:38.472] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.63.117.68:35247] logged in with entity id 68702 at (-650.8062762546887, 63.0, 402.03568282217583)
+[20Apr2025 18:27:38.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[20Apr2025 18:27:46.520] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.16.25.131:42767] logged in with entity id 69323 at (-577.7978745618392, 64.00133597911214, 422.2550626600804)
+[20Apr2025 18:27:46.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[20Apr2025 18:30:01.712] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Timed out
+[20Apr2025 18:30:01.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[20Apr2025 18:30:05.612] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 lost connection: Disconnected
+[20Apr2025 18:30:05.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 left the game
+[20Apr2025 18:30:10.818] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.63.117.68:55557] logged in with entity id 69992 at (-636.7349776710894, 63.0, 410.7312626956452)
+[20Apr2025 18:30:10.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[20Apr2025 18:30:23.420] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.16.25.131:32783] logged in with entity id 70613 at (-568.0442442907428, 63.0, 397.521419057554)
+[20Apr2025 18:30:23.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[20Apr2025 18:30:33.113] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 lost connection: Disconnected
+[20Apr2025 18:30:33.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 left the game
+[20Apr2025 18:30:38.822] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.63.117.68:47559] logged in with entity id 70746 at (-636.7349776710894, 63.0, 410.7312626956452)
+[20Apr2025 18:30:38.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
