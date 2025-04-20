@@ -2854,3 +2854,13 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
 [20Apr2025 04:09:30.872] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:53339] logged in with entity id 3122 at (-763.8911888773492, 63.0, 345.59844647438103)
 [20Apr2025 04:09:30.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[20Apr2025 04:09:49.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> askdjsa
+[20Apr2025 04:09:50.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdfsad
+[20Apr2025 04:10:00.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> culo
+[20Apr2025 04:10:02.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> culo
+[20Apr2025 04:10:04.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> culo
+[20Apr2025 04:12:20.297] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[20Apr2025 04:12:20.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[20Apr2025 04:15:06.366] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CalbiBaa[/127.198.28.85:57123] logged in with entity id 4678 at (-738.5029825344625, 61.0, 299.74652337415216)
+[20Apr2025 04:15:06.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa joined the game
+[20Apr2025 04:19:47.940] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5555, l='ServerLevel[world]', x=-764.38, y=-256.00, z=338.99] died, message: 'Villager was killed'
