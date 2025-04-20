@@ -2481,3 +2481,31 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [20Apr2025 17:36:53.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
 [20Apr2025 17:39:23.107] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/53242, l='ServerLevel[world]', x=-765.25, y=-256.00, z=350.01] died, message: 'Villager was killed'
 [20Apr2025 17:39:27.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Suit Up]
+[20Apr2025 17:52:32.829] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:57121] logged in with entity id 56525 at (-661.4998585206544, 68.0, 404.4107541576357)
+[20Apr2025 17:52:32.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[20Apr2025 17:55:36.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Usa la habilidad
+[20Apr2025 17:56:41.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> El escudo
+[20Apr2025 18:09:10.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Cuanto te hizo?
+[20Apr2025 18:09:16.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> 4
+[20Apr2025 18:09:26.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Durisimo
+[20Apr2025 18:09:46.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Nueva Arma
+[20Apr2025 18:10:08.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> esta dusima
+[20Apr2025 18:10:21.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> argeniz, voy mejorar tu granja con tierra organica, puedo?
+[20Apr2025 18:10:34.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Como asi?
+[20Apr2025 18:10:37.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Con abono?
+[20Apr2025 18:10:40.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> si
+[20Apr2025 18:10:46.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Sabes como hacer abono?
+[20Apr2025 18:10:50.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> si
+[20Apr2025 18:10:55.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Ok Ok
+[20Apr2025 18:11:14.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> El polvo de hueso y la carne de zombie etan en el cofre con la carne de zombi
+[20Apr2025 18:11:37.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Antes de plantarla la debes madurar primero aqui en esta zona
+[20Apr2025 18:11:42.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Ven para aca
+[20Apr2025 18:12:07.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> lo pongo aqui?
+[20Apr2025 18:12:13.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> La pones a los lados y se va madurando hasta que sea suelo rico
+[20Apr2025 18:12:29.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> fino
+[20Apr2025 18:12:30.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Tienes abono organico ahi?
+[20Apr2025 18:12:39.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> lo voy a hacer
+[20Apr2025 18:12:51.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Ahi teneis los huesos y la carne de zombie
+[20Apr2025 18:12:56.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> lo unico que te falta es la Paja
+[20Apr2025 18:13:01.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> tengo 64
+[20Apr2025 18:13:03.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> esa se consigue con el cuchillo
