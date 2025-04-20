@@ -3479,5 +3479,11 @@
     },
     "done": true
   },
+  "scguns:main/copper/rusty_gnat": {
+    "criteria": {
+      "rusty_gnat": "2025-04-20 04:31:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

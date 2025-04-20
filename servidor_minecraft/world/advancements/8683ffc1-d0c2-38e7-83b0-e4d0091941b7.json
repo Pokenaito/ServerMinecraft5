@@ -6345,5 +6345,11 @@
     },
     "done": true
   },
+  "scguns:main/copper/llr_director": {
+    "criteria": {
+      "llr_director": "2025-04-20 04:36:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

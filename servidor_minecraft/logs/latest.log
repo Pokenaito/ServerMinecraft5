@@ -2869,3 +2869,10 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [20Apr2025 04:25:25.218] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:52203] logged in with entity id 6596 at (-662.4812975009091, 63.0, 401.76044573486297)
 [20Apr2025 04:25:25.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
 [20Apr2025 04:25:37.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> sa
+[20Apr2025 04:31:19.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[20Apr2025 04:31:30.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa was executed by Zombie62002
+[20Apr2025 04:35:24.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asd
+[20Apr2025 04:36:11.640] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9255, l='ServerLevel[world]', x=-764.64, y=-256.00, z=338.86] died, message: 'Villager was killed'
+[20Apr2025 04:37:21.640] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9516, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.30] died, message: 'Villager was killed'
+[20Apr2025 04:39:37.098] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CalbiBaa lost connection: Disconnected
+[20Apr2025 04:39:37.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa left the game
