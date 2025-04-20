@@ -2893,3 +2893,11 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [20Apr2025 04:46:48.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> me cague
 [20Apr2025 04:46:53.805] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.16.25.131:37783] logged in with entity id 11615 at (-639.801404019146, 63.0, 402.98306094138445)
 [20Apr2025 04:46:53.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[20Apr2025 04:52:11.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina was taken down by Pokenaito
+[20Apr2025 04:56:52.640] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14388, l='ServerLevel[world]', x=-734.58, y=-256.00, z=301.45] died, message: 'Villager was killed'
+[20Apr2025 04:59:08.390] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15027, l='ServerLevel[world]', x=-661.36, y=-256.00, z=409.99] died, message: 'Villager was killed'
+[20Apr2025 04:59:38.639] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15170, l='ServerLevel[world]', x=-765.25, y=-256.00, z=350.01] died, message: 'Villager was killed'
+[20Apr2025 04:59:41.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ras
+[20Apr2025 04:59:42.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> adssa
+[20Apr2025 04:59:50.799] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[20Apr2025 04:59:50.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
