@@ -2903,3 +2903,6 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [20Apr2025 04:59:50.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
 [20Apr2025 05:02:15.640] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15818, l='ServerLevel[world]', x=-764.64, y=-256.00, z=338.86] died, message: 'Villager was killed'
 [20Apr2025 05:04:36.790] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16411, l='ServerLevel[world]', x=-764.45, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[20Apr2025 05:18:26.640] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19682, l='ServerLevel[world]', x=-765.25, y=-256.00, z=350.01] died, message: 'Villager was killed'
+[20Apr2025 05:20:23.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> yasd
+[20Apr2025 05:20:25.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> afds

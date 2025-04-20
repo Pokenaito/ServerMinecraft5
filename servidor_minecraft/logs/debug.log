@@ -10525,3 +10525,12 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [20Apr2025 05:10:23.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [20Apr2025 05:11:19.745] [Server thread/DEBUG] [mixin/]: Mixing vanilla.ContainersMixin from biggerstacks.mixins.json into net.minecraft.world.Containers
 [20Apr2025 05:11:19.745] [Server thread/DEBUG] [mixin/]: biggerstacks.mixins.json:vanilla.ContainersMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[20Apr2025 05:15:23.665] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 05:15:23.674] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 05:16:11.424] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/inventory/HorseInventoryMenu$1 (target of net/minecraft/world/inventory/Slot)
+[20Apr2025 05:16:11.425] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/inventory/HorseInventoryMenu$2 (target of net/minecraft/world/inventory/Slot)
+[20Apr2025 05:18:26.640] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19682, l='ServerLevel[world]', x=-765.25, y=-256.00, z=350.01] died, message: 'Villager was killed'
+[20Apr2025 05:20:23.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 05:20:23.663] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 05:20:23.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> yasd
+[20Apr2025 05:20:25.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> afds

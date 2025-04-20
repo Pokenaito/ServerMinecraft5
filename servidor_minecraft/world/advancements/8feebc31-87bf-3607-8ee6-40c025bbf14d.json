@@ -4843,6 +4843,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2025-04-20 05:12:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/wooden_bracket": {
     "criteria": {
       "has_item": "2025-04-20 05:07:44 +0000"
@@ -5047,6 +5053,12 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-04-20 05:13:10 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-04-20 04:41:49 +0000"
@@ -5176,6 +5188,18 @@
   "create:recipes/misc/crafting/kinetics/contraption_controls": {
     "criteria": {
       "has_item": "2025-04-20 05:07:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2025-04-20 05:11:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2025-04-20 05:12:58 +0000"
     },
     "done": true
   },
