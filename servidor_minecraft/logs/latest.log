@@ -2465,3 +2465,19 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [20Apr2025 17:00:42.117] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
 [20Apr2025 17:00:42.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
 [20Apr2025 17:00:59.106] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/39874, l='ServerLevel[world]', x=-764.64, y=-256.00, z=338.86] died, message: 'Villager was killed'
+[20Apr2025 17:04:14.106] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/41036, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.30] died, message: 'Villager was killed'
+[20Apr2025 17:15:37.107] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/46567, l='ServerLevel[world]', x=-765.25, y=-256.00, z=350.01] died, message: 'Villager was killed'
+[20Apr2025 17:22:36.707] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/49250, l='ServerLevel[world]', x=-662.03, y=-256.00, z=410.00] died, message: 'Villager was killed'
+[20Apr2025 17:23:30.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> jojoooo
+[20Apr2025 17:23:32.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Dormite
+[20Apr2025 17:26:26.217] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 lost connection: Timed out
+[20Apr2025 17:26:26.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 left the game
+[20Apr2025 17:26:36.124] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.63.117.68:36217] logged in with entity id 50236 at (-738.9431687157854, 61.0625, 303.04630141436354)
+[20Apr2025 17:26:36.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[20Apr2025 17:36:24.614] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Timed out
+[20Apr2025 17:36:24.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[20Apr2025 17:36:47.466] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2af1a3a2[id=<null>,name=Lechina,properties={},legacy=false] (/127.16.25.131:53145) lost connection: Disconnected
+[20Apr2025 17:36:53.171] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.16.25.131:47001] logged in with entity id 52552 at (-606.427226836593, 63.0, 400.69999998807907)
+[20Apr2025 17:36:53.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[20Apr2025 17:39:23.107] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/53242, l='ServerLevel[world]', x=-765.25, y=-256.00, z=350.01] died, message: 'Villager was killed'
+[20Apr2025 17:39:27.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Suit Up]
