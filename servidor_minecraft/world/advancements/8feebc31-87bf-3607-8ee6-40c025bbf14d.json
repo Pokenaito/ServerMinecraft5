@@ -4465,9 +4465,14 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2025-04-20 05:34:22 +0000",
+      "onion": "2025-04-20 05:35:35 +0000",
+      "tomato": "2025-04-20 05:35:48 +0000",
       "rice": "2025-04-18 22:32:26 +0000",
       "kelp": "2025-04-19 05:38:27 +0000",
-      "wheat": "2025-04-18 19:00:51 +0000"
+      "potato": "2025-04-20 05:34:02 +0000",
+      "wheat": "2025-04-18 19:00:51 +0000",
+      "carrot": "2025-04-20 05:33:39 +0000"
     },
     "done": false
   },
@@ -4879,6 +4884,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-04-20 05:35:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2025-04-20 04:41:46 +0000"
@@ -5065,6 +5076,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-20 05:34:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-20 04:41:46 +0000"
@@ -5197,6 +5214,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-04-20 05:35:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-04-20 05:35:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
     "criteria": {
       "has_item": "2025-04-20 05:12:58 +0000"
@@ -5212,6 +5241,12 @@
   "create:recipes/misc/crafting/kinetics/metal_bracket": {
     "criteria": {
       "has_item": "2025-04-20 05:07:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-04-20 05:34:20 +0000"
     },
     "done": true
   },
