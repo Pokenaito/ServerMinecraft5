@@ -5364,5 +5364,17 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-21 20:50:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-04-21 20:50:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
