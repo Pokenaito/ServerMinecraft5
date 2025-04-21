@@ -5123,6 +5123,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2025-04-21 20:47:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2025-04-21 20:47:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/hamburger": {
     "criteria": {
       "has_beef_patty": "2025-04-21 20:48:11 +0000"
@@ -5135,13 +5147,13 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/beef_patty": {
+  "farmersdelight:recipes/food/bread_from_smelting": {
     "criteria": {
-      "beef_patty": "2025-04-21 20:47:21 +0000"
+      "has_dough": "2025-04-21 20:48:58 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/bread_from_smelting": {
+  "farmersdelight:recipes/food/bread_from_smoking": {
     "criteria": {
       "has_dough": "2025-04-21 20:48:58 +0000"
     },
@@ -5153,15 +5165,64 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/bread_from_smoking": {
+  "minecraft:nether/explore_nether": {
     "criteria": {
-      "has_dough": "2025-04-21 20:48:58 +0000"
+      "minecraft:crimson_forest": "2025-04-21 21:07:54 +0000",
+      "minecraft:warped_forest": "2025-04-21 21:08:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-04-21 21:09:43 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+  "minecraft:recipes/building_blocks/granite": {
     "criteria": {
-      "beef_patty": "2025-04-21 20:47:21 +0000"
+      "has_quartz": "2025-04-21 21:09:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-04-21 21:09:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-04-21 21:09:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-21 21:07:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-04-21 21:13:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-04-21 21:09:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-04-21 21:09:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-21 21:07:53 +0000"
     },
     "done": true
   },

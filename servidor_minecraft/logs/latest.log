@@ -2604,3 +2604,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Apr2025 20:59:27.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina hit the ground too hard
 [21Apr2025 21:02:11.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [We Need to Go Deeper]
 [21Apr2025 21:03:06.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[21Apr2025 21:06:03.005] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 lost connection: Timed out
+[21Apr2025 21:06:03.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 left the game
+[21Apr2025 21:06:41.513] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.63.117.68:53759] logged in with entity id 54299 at (-668.7370530787547, 63.0, 414.0223970768733)
+[21Apr2025 21:06:41.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[21Apr2025 21:06:55.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 lost connection: Disconnected
+[21Apr2025 21:06:55.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 left the game
+[21Apr2025 21:07:00.662] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.63.117.68:36939] logged in with entity id 54422 at (-668.7370530787547, 63.0, 414.0223970768733)
+[21Apr2025 21:07:00.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[21Apr2025 21:07:05.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> fsdf
+[21Apr2025 21:07:53.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [We Need to Go Deeper]
+[21Apr2025 21:08:25.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito tried to swim in lava
+[21Apr2025 21:08:36.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[21Apr2025 21:09:45.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [A Terrible Fortress]
+[21Apr2025 21:09:49.086] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/56064, l='ServerLevel[world]', x=-662.03, y=-256.00, z=410.00] died, message: 'Villager was killed'
+[21Apr2025 21:13:41.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [A Terrible Fortress]
+[21Apr2025 21:13:55.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Enchanter]
+[21Apr2025 21:18:02.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 was burnt to a crisp whilst fighting Blaze
+[21Apr2025 21:20:02.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 was shot by Skeleton
+[21Apr2025 21:24:11.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 was slain by Wither Skeleton

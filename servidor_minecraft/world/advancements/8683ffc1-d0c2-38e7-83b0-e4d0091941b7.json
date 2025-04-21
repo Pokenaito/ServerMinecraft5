@@ -419,6 +419,7 @@
       "minecraft:vindicator": "2025-04-18 16:35:03 +0000",
       "minecraft:spider": "2025-04-11 22:32:49 +0000",
       "minecraft:creeper": "2025-04-11 03:27:05 +0000",
+      "minecraft:wither_skeleton": "2025-04-21 21:08:55 +0000",
       "minecraft:piglin": "2025-04-20 18:04:55 +0000",
       "minecraft:enderman": "2025-04-17 03:13:35 +0000",
       "minecraft:zombie": "2025-04-11 02:48:45 +0000",
@@ -6001,7 +6002,9 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-04-18 22:11:58 +0000",
-      "minecraft:warped_forest": "2025-04-18 22:12:36 +0000"
+      "minecraft:nether_wastes": "2025-04-21 21:07:39 +0000",
+      "minecraft:warped_forest": "2025-04-18 22:12:36 +0000",
+      "minecraft:basalt_deltas": "2025-04-21 21:11:09 +0000"
     },
     "done": false
   },
@@ -6602,6 +6605,24 @@
   "farmersdelight:recipes/food/rice": {
     "criteria": {
       "has_rice_panicle": "2025-04-21 20:48:50 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-04-21 21:10:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-04-21 21:09:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-04-21 21:04:59 +0000"
     },
     "done": true
   },
