@@ -644,6 +644,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-04-21 16:15:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-04-21 15:35:00 +0000"
@@ -1252,7 +1258,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "potato": "2025-04-21 15:41:00 +0000"
+      "porkchop": "2025-04-21 16:13:06 +0000",
+      "potato": "2025-04-21 15:41:00 +0000",
+      "carrot": "2025-04-21 16:15:14 +0000"
     },
     "done": false
   },
