@@ -2405,3 +2405,202 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Apr2025 20:54:08.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> ohnjonh
 [21Apr2025 20:54:13.136] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/47921, l='ServerLevel[world]', x=-662.03, y=-256.00, z=410.00] died, message: 'Villager was killed'
 [21Apr2025 20:54:13.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Sueltameeeeeeeeeeeeeeeeeeee
+[21Apr2025 20:55:40.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /advancement (grant|revoke)
+[21Apr2025 20:55:40.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /attribute <target> <attribute> (get|base|modifier)
+[21Apr2025 20:55:40.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[21Apr2025 20:55:40.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bossbar (add|remove|list|set|get)
+[21Apr2025 20:55:40.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clear [<targets>]
+[21Apr2025 20:55:40.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clone (<begin>|from)
+[21Apr2025 20:55:40.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /damage <target> <amount> [<damageType>]
+[21Apr2025 20:55:40.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /data (merge|get|remove|modify)
+[21Apr2025 20:55:40.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /datapack (enable|disable|list)
+[21Apr2025 20:55:40.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /debug (start|stop|function)
+[21Apr2025 20:55:40.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /defaultgamemode <gamemode>
+[21Apr2025 20:55:40.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /difficulty [peaceful|easy|normal|hard]
+[21Apr2025 20:55:40.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /effect (clear|give)
+[21Apr2025 20:55:40.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /me <action>
+[21Apr2025 20:55:40.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /enchant <targets> <enchantment> [<level>]
+[21Apr2025 20:55:40.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /experience (add|set|query)
+[21Apr2025 20:55:40.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /xp -> experience
+[21Apr2025 20:55:40.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[21Apr2025 20:55:40.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fillbiome <from> <to> <biome> [replace]
+[21Apr2025 20:55:40.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forceload (add|remove|query)
+[21Apr2025 20:55:40.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /function <name>
+[21Apr2025 20:55:40.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamemode <gamemode> [<target>]
+[21Apr2025 20:55:40.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|hunternibling|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|sunray|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[21Apr2025 20:55:40.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /give <targets> <item> [<count>]
+[21Apr2025 20:55:40.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /help [<command>]
+[21Apr2025 20:55:40.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /item (replace|modify)
+[21Apr2025 20:55:40.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kick <targets> [<reason>]
+[21Apr2025 20:55:40.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kill [<targets>]
+[21Apr2025 20:55:40.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /list [uuids]
+[21Apr2025 20:55:40.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /locate (structure|biome|poi)
+[21Apr2025 20:55:40.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /loot (replace|insert|give|spawn)
+[21Apr2025 20:55:40.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /msg <targets> <message>
+[21Apr2025 20:55:40.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tell -> msg
+[21Apr2025 20:55:40.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /w -> msg
+[21Apr2025 20:55:40.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /particle <name> [<pos>]
+[21Apr2025 20:55:40.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /place (feature|jigsaw|structure|template)
+[21Apr2025 20:55:40.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[21Apr2025 20:55:40.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /reload
+[21Apr2025 20:55:40.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /recipe (give|take)
+[21Apr2025 20:55:40.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /return <value>
+[21Apr2025 20:55:40.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ride <target> (mount|dismount)
+[21Apr2025 20:55:40.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /say <message>
+[21Apr2025 20:55:40.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /schedule (function|clear)
+[21Apr2025 20:55:40.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /scoreboard (objectives|players)
+[21Apr2025 20:55:40.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /seed
+[21Apr2025 20:55:40.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setblock <pos> <block> [destroy|keep|replace]
+[21Apr2025 20:55:40.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spawnpoint [<targets>]
+[21Apr2025 20:55:40.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setworldspawn [<pos>]
+[21Apr2025 20:55:40.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spectate [<target>]
+[21Apr2025 20:55:40.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[21Apr2025 20:55:40.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[21Apr2025 20:55:40.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /summon <entity> [<pos>]
+[21Apr2025 20:55:40.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tag <targets> (add|remove|list)
+[21Apr2025 20:55:40.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /team (list|add|remove|empty|join|leave|modify)
+[21Apr2025 20:55:40.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teammsg <message>
+[21Apr2025 20:55:40.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tm -> teammsg
+[21Apr2025 20:55:40.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teleport (<location>|<destination>|<targets>)
+[21Apr2025 20:55:40.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tp -> teleport
+[21Apr2025 20:55:40.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tellraw <targets> <message>
+[21Apr2025 20:55:40.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /time (set|add|query)
+[21Apr2025 20:55:40.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[21Apr2025 20:55:40.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /trigger <objective> [add|set]
+[21Apr2025 20:55:40.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /weather (clear|rain|thunder)
+[21Apr2025 20:55:40.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /worldborder (add|set|center|damage|get|warning)
+[21Apr2025 20:55:40.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /jfr (start|stop)
+[21Apr2025 20:55:40.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban-ip <target> [<reason>]
+[21Apr2025 20:55:40.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /banlist [ips|players]
+[21Apr2025 20:55:40.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban <targets> [<reason>]
+[21Apr2025 20:55:40.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deop <targets>
+[21Apr2025 20:55:40.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /op <targets>
+[21Apr2025 20:55:40.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon <targets>
+[21Apr2025 20:55:40.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon-ip <target>
+[21Apr2025 20:55:40.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /perf (start|stop)
+[21Apr2025 20:55:40.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-all [flush]
+[21Apr2025 20:55:40.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-off
+[21Apr2025 20:55:40.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-on
+[21Apr2025 20:55:40.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setidletimeout <minutes>
+[21Apr2025 20:55:40.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stop
+[21Apr2025 20:55:40.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /whitelist (on|off|list|add|remove|reload)
+[21Apr2025 20:55:40.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /balm (dev|export)
+[21Apr2025 20:55:40.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /end_island reset [<forceNewPortalPos>]
+[21Apr2025 20:55:40.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /biggerstacks quicksetup
+[21Apr2025 20:55:40.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sbp (list|give|removeNonPlayer)
+[21Apr2025 20:55:40.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sophisticatedbackpacks -> sbp
+[21Apr2025 20:55:40.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
+[21Apr2025 20:55:40.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
+[21Apr2025 20:55:40.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /curios (list|replace|set|add|remove|clear|drop|reset)
+[21Apr2025 20:55:40.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ponder [reload|index|tags|<scene>]
+[21Apr2025 20:55:40.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /catnip (config|util|u)
+[21Apr2025 20:55:40.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /c (config|util|u|rainbowDebug|overlay|trains|fixLighting|debuginfo|highlight|passenger|coupling|clone|train|glue)
+[21Apr2025 20:55:40.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pregen [start|retrogen|info|scan|taskList|pause|resume|continue|stop|clear|processors|utils]
+[21Apr2025 20:55:40.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fallingtree toggle
+[21Apr2025 20:55:40.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /create (rainbowDebug|overlay|trains|fixLighting|debuginfo|highlight|passenger|coupling|clone|train|glue|util|u)
+[21Apr2025 20:55:40.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /restore <target> <death_id> (replace|add)
+[21Apr2025 20:55:40.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /restoreinventory -> restore
+[21Apr2025 20:56:31.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /advancement (grant|revoke)
+[21Apr2025 20:56:31.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /attribute <target> <attribute> (get|base|modifier)
+[21Apr2025 20:56:31.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[21Apr2025 20:56:31.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bossbar (add|remove|list|set|get)
+[21Apr2025 20:56:31.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clear [<targets>]
+[21Apr2025 20:56:31.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clone (<begin>|from)
+[21Apr2025 20:56:31.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /damage <target> <amount> [<damageType>]
+[21Apr2025 20:56:31.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /data (merge|get|remove|modify)
+[21Apr2025 20:56:31.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /datapack (enable|disable|list)
+[21Apr2025 20:56:31.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /debug (start|stop|function)
+[21Apr2025 20:56:31.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /defaultgamemode <gamemode>
+[21Apr2025 20:56:31.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /difficulty [peaceful|easy|normal|hard]
+[21Apr2025 20:56:31.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /effect (clear|give)
+[21Apr2025 20:56:31.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /me <action>
+[21Apr2025 20:56:31.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /enchant <targets> <enchantment> [<level>]
+[21Apr2025 20:56:31.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /experience (add|set|query)
+[21Apr2025 20:56:31.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /xp -> experience
+[21Apr2025 20:56:31.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[21Apr2025 20:56:31.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fillbiome <from> <to> <biome> [replace]
+[21Apr2025 20:56:31.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forceload (add|remove|query)
+[21Apr2025 20:56:31.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /function <name>
+[21Apr2025 20:56:31.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamemode <gamemode> [<target>]
+[21Apr2025 20:56:31.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|hunternibling|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|sunray|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[21Apr2025 20:56:31.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /give <targets> <item> [<count>]
+[21Apr2025 20:56:31.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /help [<command>]
+[21Apr2025 20:56:31.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /item (replace|modify)
+[21Apr2025 20:56:31.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kick <targets> [<reason>]
+[21Apr2025 20:56:31.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kill [<targets>]
+[21Apr2025 20:56:31.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /list [uuids]
+[21Apr2025 20:56:31.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /locate (structure|biome|poi)
+[21Apr2025 20:56:31.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /loot (replace|insert|give|spawn)
+[21Apr2025 20:56:31.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /msg <targets> <message>
+[21Apr2025 20:56:31.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tell -> msg
+[21Apr2025 20:56:31.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /w -> msg
+[21Apr2025 20:56:31.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /particle <name> [<pos>]
+[21Apr2025 20:56:31.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /place (feature|jigsaw|structure|template)
+[21Apr2025 20:56:31.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[21Apr2025 20:56:31.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /reload
+[21Apr2025 20:56:31.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /recipe (give|take)
+[21Apr2025 20:56:31.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /return <value>
+[21Apr2025 20:56:31.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ride <target> (mount|dismount)
+[21Apr2025 20:56:31.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /say <message>
+[21Apr2025 20:56:31.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /schedule (function|clear)
+[21Apr2025 20:56:31.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /scoreboard (objectives|players)
+[21Apr2025 20:56:31.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /seed
+[21Apr2025 20:56:31.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setblock <pos> <block> [destroy|keep|replace]
+[21Apr2025 20:56:31.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spawnpoint [<targets>]
+[21Apr2025 20:56:31.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setworldspawn [<pos>]
+[21Apr2025 20:56:31.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spectate [<target>]
+[21Apr2025 20:56:31.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[21Apr2025 20:56:31.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[21Apr2025 20:56:31.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /summon <entity> [<pos>]
+[21Apr2025 20:56:31.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tag <targets> (add|remove|list)
+[21Apr2025 20:56:31.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /team (list|add|remove|empty|join|leave|modify)
+[21Apr2025 20:56:31.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teammsg <message>
+[21Apr2025 20:56:31.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tm -> teammsg
+[21Apr2025 20:56:31.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teleport (<location>|<destination>|<targets>)
+[21Apr2025 20:56:31.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tp -> teleport
+[21Apr2025 20:56:31.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tellraw <targets> <message>
+[21Apr2025 20:56:31.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /time (set|add|query)
+[21Apr2025 20:56:31.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[21Apr2025 20:56:31.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /trigger <objective> [add|set]
+[21Apr2025 20:56:31.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /weather (clear|rain|thunder)
+[21Apr2025 20:56:31.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /worldborder (add|set|center|damage|get|warning)
+[21Apr2025 20:56:31.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /jfr (start|stop)
+[21Apr2025 20:56:31.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban-ip <target> [<reason>]
+[21Apr2025 20:56:31.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /banlist [ips|players]
+[21Apr2025 20:56:31.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban <targets> [<reason>]
+[21Apr2025 20:56:31.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deop <targets>
+[21Apr2025 20:56:31.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /op <targets>
+[21Apr2025 20:56:31.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon <targets>
+[21Apr2025 20:56:31.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon-ip <target>
+[21Apr2025 20:56:31.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /perf (start|stop)
+[21Apr2025 20:56:31.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-all [flush]
+[21Apr2025 20:56:31.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-off
+[21Apr2025 20:56:31.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-on
+[21Apr2025 20:56:31.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setidletimeout <minutes>
+[21Apr2025 20:56:31.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stop
+[21Apr2025 20:56:31.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /whitelist (on|off|list|add|remove|reload)
+[21Apr2025 20:56:31.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /balm (dev|export)
+[21Apr2025 20:56:31.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /end_island reset [<forceNewPortalPos>]
+[21Apr2025 20:56:31.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /biggerstacks quicksetup
+[21Apr2025 20:56:31.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sbp (list|give|removeNonPlayer)
+[21Apr2025 20:56:31.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sophisticatedbackpacks -> sbp
+[21Apr2025 20:56:31.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
+[21Apr2025 20:56:31.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
+[21Apr2025 20:56:31.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /curios (list|replace|set|add|remove|clear|drop|reset)
+[21Apr2025 20:56:31.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ponder [reload|index|tags|<scene>]
+[21Apr2025 20:56:31.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /catnip (config|util|u)
+[21Apr2025 20:56:31.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /c (config|util|u|rainbowDebug|overlay|trains|fixLighting|debuginfo|highlight|passenger|coupling|clone|train|glue)
+[21Apr2025 20:56:31.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pregen [start|retrogen|info|scan|taskList|pause|resume|continue|stop|clear|processors|utils]
+[21Apr2025 20:56:31.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fallingtree toggle
+[21Apr2025 20:56:31.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /create (rainbowDebug|overlay|trains|fixLighting|debuginfo|highlight|passenger|coupling|clone|train|glue|util|u)
+[21Apr2025 20:56:31.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /restore <target> <death_id> (replace|add)
+[21Apr2025 20:56:31.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /restoreinventory -> restore
+[21Apr2025 20:57:37.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invalid name or UUID
+[21Apr2025 20:57:37.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kill [<Lechina>]<--[HERE]
+[21Apr2025 20:57:49.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Apr2025 20:57:49.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kill Lechina<--[HERE]
+[21Apr2025 20:58:25.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Apr2025 20:58:25.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kill [Lechina]<--[HERE]
+[21Apr2025 20:59:27.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina hit the ground too hard
+[21Apr2025 21:02:11.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [We Need to Go Deeper]
+[21Apr2025 21:03:06.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
