@@ -6675,6 +6675,12 @@
     },
     "done": true
   },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-04-21 21:42:44 +0000"
+    },
+    "done": true
+  },
   "create:burner": {
     "criteria": {
       "0": "2025-04-21 21:10:48 +0000"

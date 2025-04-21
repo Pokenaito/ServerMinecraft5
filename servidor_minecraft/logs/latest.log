@@ -2630,3 +2630,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Apr2025 21:33:17.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
 [21Apr2025 21:34:26.486] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/67169, l='ServerLevel[world]', x=-734.58, y=-256.00, z=301.45] died, message: 'Villager was killed'
 [21Apr2025 21:35:18.442] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/67423, l='ServerLevel[world]', x=-661.36, y=-256.00, z=409.99] died, message: 'Villager was killed'
+[21Apr2025 21:38:10.486] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/68628, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.30] died, message: 'Villager was killed'
+[21Apr2025 21:38:25.736] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/68711, l='ServerLevel[world]', x=-662.50, y=-256.00, z=409.80] died, message: 'Villager was killed'
+[21Apr2025 21:38:54.336] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/68886, l='ServerLevel[world]', x=-661.97, y=-256.00, z=409.91] died, message: 'Villager was killed'
+[21Apr2025 21:42:13.536] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/70082, l='ServerLevel[world]', x=-765.53, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[21Apr2025 21:43:21.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [Into Fire]
+[21Apr2025 21:43:33.406] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 lost connection: Timed out
+[21Apr2025 21:43:33.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 left the game
+[21Apr2025 21:44:20.811] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.63.117.68:34353] logged in with entity id 70897 at (-688.8525229943263, 63.9375, 312.5804517556694)
+[21Apr2025 21:44:20.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[21Apr2025 21:44:29.103] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 lost connection: Disconnected
+[21Apr2025 21:44:29.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 left the game
+[21Apr2025 21:44:36.410] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.63.117.68:57599] logged in with entity id 71072 at (-688.8525229943263, 63.9375, 312.5804517556694)
+[21Apr2025 21:44:36.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[21Apr2025 21:44:55.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> fdgdf
+[21Apr2025 21:45:36.554] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 lost connection: Timed out
+[21Apr2025 21:45:36.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 left the game
