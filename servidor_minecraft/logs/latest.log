@@ -2765,3 +2765,22 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [21Apr2025 22:56:11.253] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:40569] logged in with entity id 93975 at (-765.557441038363, 70.0, 325.7021305511867)
 [21Apr2025 22:56:11.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
 [21Apr2025 22:56:27.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> fresco fresco fre fresco
+[21Apr2025 22:57:06.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[21Apr2025 22:57:06.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[21Apr2025 22:57:53.154] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:52331] logged in with entity id 94629 at (-765.557441038363, 70.0, 325.7021305511867)
+[21Apr2025 22:57:53.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[21Apr2025 22:58:06.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> seo
+[21Apr2025 22:58:07.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> as
+[21Apr2025 22:58:08.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> adfas
+[21Apr2025 22:58:30.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> adolskj
+[21Apr2025 22:58:32.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> aiodsjpo
+[21Apr2025 22:58:49.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asd
+[21Apr2025 22:58:51.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> as
+[21Apr2025 23:01:11.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> as
+[21Apr2025 23:01:12.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asd
+[21Apr2025 23:01:12.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ya
+[21Apr2025 23:01:15.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdas
+[21Apr2025 23:02:25.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> as
+[21Apr2025 23:02:26.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asd
+[21Apr2025 23:02:27.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> yasdasa
+[21Apr2025 23:04:58.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asd
