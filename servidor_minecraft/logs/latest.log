@@ -2646,3 +2646,29 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Apr2025 21:44:55.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> fdgdf
 [21Apr2025 21:45:36.554] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 lost connection: Timed out
 [21Apr2025 21:45:36.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 left the game
+[21Apr2025 21:45:54.812] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.63.117.68:33915] logged in with entity id 71615 at (-688.8525229943263, 63.9375, 312.5804517556694)
+[21Apr2025 21:45:54.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[21Apr2025 21:46:06.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> fsdfsd
+[21Apr2025 21:46:14.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> tu puedes jojo
+[21Apr2025 21:46:31.604] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 lost connection: Timed out
+[21Apr2025 21:46:31.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 left the game
+[21Apr2025 21:46:39.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito was slain by Zombified Piglin
+[21Apr2025 21:46:46.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> coño
+[21Apr2025 21:47:07.056] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.63.117.68:49469] logged in with entity id 72175 at (-688.8525229943263, 63.9375, 312.5804517556694)
+[21Apr2025 21:47:07.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[21Apr2025 21:47:36.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> h
+[21Apr2025 21:48:06.487] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 lost connection: Disconnected
+[21Apr2025 21:48:06.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 left the game
+[21Apr2025 21:48:11.311] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.63.117.68:59821] logged in with entity id 72618 at (-688.8525229943263, 63.9375, 312.5804517556694)
+[21Apr2025 21:48:11.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[21Apr2025 21:48:17.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> lo
+[21Apr2025 21:51:26.652] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 lost connection: Timed out
+[21Apr2025 21:51:26.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 left the game
+[21Apr2025 21:52:15.709] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.63.117.68:47955] logged in with entity id 74441 at (-747.5831397978321, 63.0, 303.360336578522)
+[21Apr2025 21:52:15.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[21Apr2025 21:52:51.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> sd
+[21Apr2025 21:52:51.809] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 lost connection: Disconnected
+[21Apr2025 21:52:51.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 left the game
+[21Apr2025 21:52:57.212] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.63.117.68:53941] logged in with entity id 74861 at (-747.5831397978321, 63.0, 303.360336578522)
+[21Apr2025 21:52:57.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[21Apr2025 21:53:10.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> sdf
