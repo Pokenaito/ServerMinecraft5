@@ -2354,3 +2354,41 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Apr2025 20:34:02.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
 [21Apr2025 20:34:33.060] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:51731] logged in with entity id 41864 at (-764.5, 69.5625, 332.5)
 [21Apr2025 20:34:33.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[21Apr2025 20:34:46.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> oveja?
+[21Apr2025 20:34:54.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> vamos internet tu puedes
+[21Apr2025 20:35:04.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> listo se estabilizo
+[21Apr2025 20:35:15.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> papi Casualidad
+[21Apr2025 20:35:18.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> llegamos igual
+[21Apr2025 20:35:33.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> bruh
+[21Apr2025 20:35:57.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Hey me encanto el caminito
+[21Apr2025 20:36:09.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> gracias pibe
+[21Apr2025 20:36:20.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> QUe hace we
+[21Apr2025 20:36:24.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> ganado
+[21Apr2025 20:36:28.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Oh
+[21Apr2025 20:36:29.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> estamos en discod btw
+[21Apr2025 20:36:35.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Voy voy
+[21Apr2025 20:36:42.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> las avestruces fea esa saltan las vallas
+[21Apr2025 20:36:52.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> sueltame lag
+[21Apr2025 20:36:57.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> let me in
+[21Apr2025 20:37:03.800] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[21Apr2025 20:37:03.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[21Apr2025 20:37:27.647] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 lost connection: Timed out
+[21Apr2025 20:37:27.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 left the game
+[21Apr2025 20:37:37.709] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:44641] logged in with entity id 42925 at (-766.818299248536, 63.0, 340.8265249286798)
+[21Apr2025 20:37:37.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[21Apr2025 20:37:56.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[21Apr2025 20:38:02.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> sueltame laaag
+[21Apr2025 20:38:07.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> conio
+[21Apr2025 20:38:33.465] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.63.117.68:53157] logged in with entity id 43366 at (-773.9222180804078, 66.0, 288.6917367861411)
+[21Apr2025 20:38:33.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[21Apr2025 20:39:33.600] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 lost connection: Timed out
+[21Apr2025 20:39:33.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 left the game
+[21Apr2025 20:40:10.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[21Apr2025 20:40:11.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[21Apr2025 20:40:11.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[21Apr2025 20:41:15.110] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.63.117.68:55299] logged in with entity id 44215 at (-773.9222180804078, 66.0, 288.6917367861411)
+[21Apr2025 20:41:15.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[21Apr2025 20:41:20.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> jnhgj
+[21Apr2025 20:41:23.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> asdaps
+[21Apr2025 20:41:26.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> popeye
+[21Apr2025 20:41:30.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [Ol' Betsy]
