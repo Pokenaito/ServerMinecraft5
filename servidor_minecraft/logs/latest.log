@@ -2431,3 +2431,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Apr2025 17:20:09.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 was slain by Enderman
 [21Apr2025 17:20:40.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Command must be run by a player
 [21Apr2025 17:25:26.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [The Parrots and the Bats]
+[21Apr2025 17:30:39.052] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[21Apr2025 17:30:39.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
