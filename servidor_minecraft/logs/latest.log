@@ -2272,3 +2272,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Apr2025 18:30:35.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
 [21Apr2025 18:30:46.391] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cow['Cow'/1612, l='ServerLevel[world]', x=21.57, y=71.00, z=309.59]
 [21Apr2025 18:40:26.488] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5599, l='ServerLevel[world]', x=-764.64, y=-256.00, z=338.86] died, message: 'Villager was killed'
+[21Apr2025 18:43:46.636] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6283, l='ServerLevel[world]', x=-764.45, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[21Apr2025 18:48:22.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [The Parrots and the Bats]
