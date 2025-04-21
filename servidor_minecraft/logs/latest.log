@@ -2727,3 +2727,5 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [21Apr2025 22:24:06.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
 [21Apr2025 22:24:44.944] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 lost connection: Disconnected
 [21Apr2025 22:24:44.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 left the game
+[21Apr2025 22:32:21.485] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/87637, l='ServerLevel[world]', x=-751.83, y=-256.00, z=300.39] died, message: 'Villager was killed'
+[21Apr2025 22:35:24.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> duerme
