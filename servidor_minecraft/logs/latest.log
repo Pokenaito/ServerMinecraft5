@@ -2687,3 +2687,37 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Apr2025 22:04:19.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> CARGA
 [21Apr2025 22:04:27.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ok
 [21Apr2025 22:05:06.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito tried to swim in lava
+[21Apr2025 22:06:57.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [The Brass Age]
+[21Apr2025 22:08:01.202] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 lost connection: Timed out
+[21Apr2025 22:08:01.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 left the game
+[21Apr2025 22:12:39.422] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.EntityStorage/]: An Entity type entity.scguns.brass_bolt has thrown an exception trying to write state. It will not persist. Report this to the mod author
+net.minecraft.ReportedException: Saving entity NBT
+	at net.minecraft.world.entity.Entity.m_20240_(Entity.java:1683) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
+	at net.minecraft.world.entity.Entity.m_20086_(Entity.java:1588) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
+	at net.minecraft.world.entity.Entity.m_20223_(Entity.java:1595) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_156565_(EntityStorage.java:93) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_141971_(EntityStorage.java:90) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157512_(PersistentEntitySectionManager.java:217) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157568_(PersistentEntitySectionManager.java:653) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157583_(PersistentEntitySectionManager.java:252) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
+	at it.unimi.dsi.fastutil.longs.LongCollection.removeIf(LongCollection.java:274) ~[fastutil-8.5.9.jar%2390!/:?]
+	at it.unimi.dsi.fastutil.longs.LongCollection.removeIf(LongCollection.java:306) ~[fastutil-8.5.9.jar%2390!/:?]
+	at it.unimi.dsi.fastutil.longs.AbstractLongCollection.removeIf(AbstractLongCollection.java:159) ~[fastutil-8.5.9.jar%2390!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157577_(PersistentEntitySectionManager.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157506_(PersistentEntitySectionManager.java:270) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:355) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resources.ResourceLocation.toString()" because the return value of "net.minecraft.core.Registry.m_7981_(Object)" is null
+	at net.minecraft.world.entity.projectile.AbstractArrow.m_7380_(AbstractArrow.java:465) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
+	at top.ribs.scguns.entity.projectile.BrassBoltEntity.m_7380_(BrassBoltEntity.java:110) ~[ScorchedGuns-0.4.1-1.20.1.jar%23171!/:0.4.1-1.20.1]
+	at net.minecraft.world.entity.Entity.m_20240_(Entity.java:1662) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
+	... 21 more
+[21Apr2025 22:13:43.485] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/83228, l='ServerLevel[world]', x=-764.64, y=-256.00, z=338.86] died, message: 'Villager was killed'
+[21Apr2025 22:15:34.086] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/83601, l='ServerLevel[world]', x=-765.40, y=-256.00, z=338.90] died, message: 'Villager was killed'
