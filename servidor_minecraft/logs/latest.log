@@ -2279,3 +2279,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Apr2025 15:28:52.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has reached the goal [Plant Food]
 [21Apr2025 15:32:18.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kierbyuwu has made the advancement [Stone Age]
 [21Apr2025 15:33:13.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[21Apr2025 15:37:48.195] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3932, l='ServerLevel[world]', x=-764.54, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[21Apr2025 15:38:31.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kierbyuwu has made the advancement [Getting an Upgrade]
+[21Apr2025 15:39:05.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: %1$s was slain by %2$s
+[21Apr2025 15:39:24.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito hit the ground too hard whilst trying to escape The Wheezer
+[21Apr2025 15:40:23.044] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4742, l='ServerLevel[world]', x=-765.25, y=-256.00, z=350.01] died, message: 'Villager was killed'
