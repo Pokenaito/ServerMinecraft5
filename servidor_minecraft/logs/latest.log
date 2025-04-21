@@ -2284,3 +2284,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Apr2025 15:39:05.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: %1$s was slain by %2$s
 [21Apr2025 15:39:24.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito hit the ground too hard whilst trying to escape The Wheezer
 [21Apr2025 15:40:23.044] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4742, l='ServerLevel[world]', x=-765.25, y=-256.00, z=350.01] died, message: 'Villager was killed'
+[21Apr2025 15:47:44.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kierbyuwu has made the advancement [Monster Hunter]
+[21Apr2025 15:47:58.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kierbyuwu was slain by Sucker
+[21Apr2025 15:48:36.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito was slain by Sucker
+[21Apr2025 15:55:25.044] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9892, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.30] died, message: 'Villager was killed'
