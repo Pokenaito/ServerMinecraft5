@@ -2271,3 +2271,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Apr2025 18:30:35.321] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.16.25.131:49557] logged in with entity id 1363 at (-558.0091543633893, 63.0, 381.9973910991322)
 [21Apr2025 18:30:35.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
 [21Apr2025 18:30:46.391] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cow['Cow'/1612, l='ServerLevel[world]', x=21.57, y=71.00, z=309.59]
+[21Apr2025 18:40:26.488] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5599, l='ServerLevel[world]', x=-764.64, y=-256.00, z=338.86] died, message: 'Villager was killed'
