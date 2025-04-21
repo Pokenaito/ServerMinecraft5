@@ -2316,3 +2316,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Apr2025 16:48:16.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> A
 [21Apr2025 16:55:56.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Voluntary Exile]
 [21Apr2025 17:00:27.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> A
+[21Apr2025 17:08:29.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved wrongly! 0.28836955163319544
+[21Apr2025 17:08:29.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved wrongly! 0.49873356015460424
+[21Apr2025 17:08:29.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved wrongly! 0.8549675651991933
+[21Apr2025 17:08:29.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved wrongly! 1.3153816068050805
+[21Apr2025 17:08:29.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved wrongly! 1.817831276402804
+[21Apr2025 17:10:33.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [What a Deal!]
+[21Apr2025 17:12:51.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[21Apr2025 17:13:24.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! 8.40624126331079,-2.010914547315963,-5.3338552141528055
+[21Apr2025 17:13:24.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! 8.92764079943231,-2.010914547315963,-5.4920095462371705
+[21Apr2025 17:13:24.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! 9.442677982615919,-1.0109145473159629,-5.668651282509302
+[21Apr2025 17:13:24.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! 9.944898016482966,-1.0109145473159629,-5.876403694758096
+[21Apr2025 17:13:24.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! 10.426463862859237,-1.0109145473159629,-6.124990948133473
+[21Apr2025 17:13:24.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! 10.684140145868014,-1.0109145473159629,-6.258005031119495
+[21Apr2025 17:14:36.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [Voluntary Exile]

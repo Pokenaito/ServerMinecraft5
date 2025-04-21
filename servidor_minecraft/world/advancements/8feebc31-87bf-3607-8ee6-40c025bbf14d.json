@@ -5250,6 +5250,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-21 17:14:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-04-21 16:01:03 +0000"
@@ -5292,9 +5298,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-04-21 17:10:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-04-21 16:01:03 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/craft_gun_bench": {
+    "criteria": {
+      "gun_bench": "2025-04-21 17:07:49 +0000"
     },
     "done": true
   },

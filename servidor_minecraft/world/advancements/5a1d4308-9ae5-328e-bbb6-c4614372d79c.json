@@ -4658,6 +4658,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-21 17:09:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-04-21 16:09:06 +0000"
@@ -4667,6 +4673,12 @@
   "farmersdelight:recipes/cooking/hot_cocoa": {
     "criteria": {
       "has_any_ingredient": "2025-04-21 17:02:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-21 17:09:40 +0000"
     },
     "done": true
   },
@@ -4688,6 +4700,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/paper_from_tree_bark": {
+    "criteria": {
+      "has_tree_bark": "2025-04-21 17:09:50 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2025-04-21 17:02:06 +0000"
@@ -4697,6 +4715,12 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-04-21 16:09:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-04-21 17:09:40 +0000"
     },
     "done": true
   },
