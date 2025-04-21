@@ -2493,6 +2493,12 @@
     },
     "done": true
   },
+  "undead_revamp2:parry": {
+    "criteria": {
+      "parry_0": "2025-04-21 19:43:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
       "has_log": "2025-04-21 18:57:48 +0000"

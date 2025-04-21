@@ -4763,5 +4763,11 @@
     },
     "done": false
   },
+  "undead_revamp2:nicehousebro": {
+    "criteria": {
+      "nicehousebro_0": "2025-04-21 19:38:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
