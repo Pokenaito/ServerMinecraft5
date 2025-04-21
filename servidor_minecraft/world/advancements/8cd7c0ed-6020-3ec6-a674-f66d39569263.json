@@ -2088,6 +2088,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "potato": "2025-04-20 16:25:36 +0000",
+      "wheat": "2025-04-21 20:32:25 +0000",
       "carrot": "2025-04-20 15:51:09 +0000"
     },
     "done": false
@@ -2512,11 +2513,23 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-04-21 20:32:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2025-04-21 19:47:05 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-04-21 20:32:58 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
@@ -2575,6 +2588,12 @@
   "create:recipes/building_blocks/cherry_window": {
     "criteria": {
       "has_ingredient": "2025-04-21 19:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-21 20:32:25 +0000"
     },
     "done": true
   },
