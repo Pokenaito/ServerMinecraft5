@@ -2433,3 +2433,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Apr2025 17:25:26.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [The Parrots and the Bats]
 [21Apr2025 17:30:39.052] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
 [21Apr2025 17:30:39.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[21Apr2025 17:45:03.044] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38563, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.30] died, message: 'Villager was killed'
+[21Apr2025 17:45:20.044] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38608, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.30] died, message: 'Villager was killed'
