@@ -2435,3 +2435,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Apr2025 17:30:39.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
 [21Apr2025 17:45:03.044] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38563, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.30] died, message: 'Villager was killed'
 [21Apr2025 17:45:20.044] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38608, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.30] died, message: 'Villager was killed'
+[21Apr2025 17:59:22.120] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.16.25.131:60003] logged in with entity id 41064 at (-660.3504228853666, 63.0, 400.51910623466944)
+[21Apr2025 17:59:22.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[21Apr2025 17:59:36.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> SARAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
