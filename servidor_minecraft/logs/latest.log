@@ -2288,3 +2288,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Apr2025 15:47:58.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kierbyuwu was slain by Sucker
 [21Apr2025 15:48:36.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito was slain by Sucker
 [21Apr2025 15:55:25.044] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9892, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.30] died, message: 'Villager was killed'
+[21Apr2025 15:56:44.094] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10261, l='ServerLevel[world]', x=-661.41, y=-256.00, z=409.90] died, message: 'Villager was killed'
+[21Apr2025 16:00:05.993] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10980, l='ServerLevel[world]', x=-765.51, y=-256.00, z=339.29] died, message: 'Villager was killed'
+[21Apr2025 16:02:32.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito was squashed by Kierbyuwu
+[21Apr2025 16:02:32.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kierbyuwu was squished too much
+[21Apr2025 16:02:41.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[21Apr2025 16:03:04.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 8.317658357514688,-0.0448124203990119,5.967951621762722
+[21Apr2025 16:03:09.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> aaa
