@@ -2310,3 +2310,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Apr2025 16:23:26.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kierbyuwu has made the advancement [Acquire Hardware]
 [21Apr2025 16:26:54.513] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-755, y=58, z=345} BlockPos{x=-755, y=59, z=345}
 [21Apr2025 16:30:40.044] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19151, l='ServerLevel[world]', x=-734.58, y=-256.00, z=301.45] died, message: 'Villager was killed'
+[21Apr2025 16:39:05.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[21Apr2025 16:44:09.901] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kierbyuwu lost connection: Disconnected
+[21Apr2025 16:44:09.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kierbyuwu left the game
