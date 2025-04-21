@@ -2623,3 +2623,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Apr2025 21:18:02.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 was burnt to a crisp whilst fighting Blaze
 [21Apr2025 21:20:02.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 was shot by Skeleton
 [21Apr2025 21:24:11.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 was slain by Wither Skeleton
+[21Apr2025 21:26:00.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Into Fire]
+[21Apr2025 21:32:18.149] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 lost connection: Timed out
+[21Apr2025 21:32:18.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 left the game
+[21Apr2025 21:33:17.366] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.63.117.68:33007] logged in with entity id 66869 at (-642.9198264680838, 63.0, 394.75482273208917)
+[21Apr2025 21:33:17.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[21Apr2025 21:34:26.486] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/67169, l='ServerLevel[world]', x=-734.58, y=-256.00, z=301.45] died, message: 'Villager was killed'
+[21Apr2025 21:35:18.442] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/67423, l='ServerLevel[world]', x=-661.36, y=-256.00, z=409.99] died, message: 'Villager was killed'

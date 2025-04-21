@@ -5165,6 +5165,18 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-21 21:07:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-21 21:07:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-04-21 21:07:54 +0000",
@@ -5196,18 +5208,6 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-04-21 21:07:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-04-21 21:13:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-04-21 21:09:43 +0000"
@@ -5220,9 +5220,9 @@
     },
     "done": true
   },
-  "minecraft:nether/root": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "entered_nether": "2025-04-21 21:07:53 +0000"
+      "enchanted_item": "2025-04-21 21:13:55 +0000"
     },
     "done": true
   },
