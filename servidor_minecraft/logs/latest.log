@@ -2308,3 +2308,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Apr2025 22:29:39.782] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35234, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.30] died, message: 'Villager was killed'
 [22Apr2025 22:30:42.782] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35668, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.30] died, message: 'Villager was killed'
 [22Apr2025 22:32:46.782] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/36804, l='ServerLevel[world]', x=-231.76, y=-256.00, z=109.69] died, message: 'Villager was killed'
+[22Apr2025 22:47:35.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Diamonds!]
+[22Apr2025 22:47:35.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -8.612665434843052,-1.5002883989199631,4.900664164431646
+[22Apr2025 22:47:36.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito was kicked for floating too long!
+[22Apr2025 22:47:36.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Flying is not enabled on this server
+[22Apr2025 22:47:36.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[22Apr2025 22:47:49.361] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:35497] logged in with entity id 43350 at (-737.8117490551708, 64.1212968405392, 338.3520729130996)
+[22Apr2025 22:47:49.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
