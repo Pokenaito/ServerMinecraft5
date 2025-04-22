@@ -2264,3 +2264,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Apr2025 21:25:13.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Ando en discord mi rey
 [22Apr2025 21:25:15.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> duerme
 [22Apr2025 21:25:42.849] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cow['Cow'/2162, l='ServerLevel[world]', x=-383.96, y=78.00, z=451.08]
+[22Apr2025 21:28:06.345] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:59683] logged in with entity id 2896 at (-768.3000000119209, 69.0, 328.8064492541504)
+[22Apr2025 21:28:06.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[22Apr2025 21:28:24.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[22Apr2025 21:30:13.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 3.5970506210378517,-9.623229159753834,2.967139656733991
+[22Apr2025 21:30:14.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito was kicked for floating too long!
+[22Apr2025 21:30:14.793] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Flying is not enabled on this server
+[22Apr2025 21:30:14.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[22Apr2025 21:30:25.058] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:56087] logged in with entity id 3928 at (-750.8051275652405, 65.70648786046942, 377.0396847703668)
+[22Apr2025 21:30:25.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[22Apr2025 21:30:39.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[22Apr2025 21:30:40.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> as
+[22Apr2025 21:35:44.757] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-719, y=61, z=384} BlockPos{x=-719, y=59, z=384}
