@@ -6909,9 +6909,9 @@
     },
     "done": true
   },
-  "create:crushing_wheel": {
+  "create:water_supply": {
     "criteria": {
-      "0": "2025-04-22 03:53:07 +0000"
+      "0": "2025-04-22 03:35:15 +0000"
     },
     "done": true
   },
@@ -6927,9 +6927,21 @@
     },
     "done": true
   },
-  "create:water_supply": {
+  "create:crushing_wheel": {
     "criteria": {
-      "0": "2025-04-22 03:35:15 +0000"
+      "0": "2025-04-22 03:53:07 +0000"
+    },
+    "done": true
+  },
+  "create:hand_crank_000": {
+    "criteria": {
+      "0": "2025-04-22 04:04:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-04-22 21:22:11 +0000"
     },
     "done": true
   },
