@@ -6915,6 +6915,12 @@
     },
     "done": true
   },
+  "create:steam_engine": {
+    "criteria": {
+      "0": "2025-04-22 03:43:52 +0000"
+    },
+    "done": true
+  },
   "create:water_supply": {
     "criteria": {
       "0": "2025-04-22 03:35:15 +0000"
