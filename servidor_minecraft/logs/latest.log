@@ -2315,3 +2315,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Apr2025 22:47:36.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
 [22Apr2025 22:47:49.361] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:35497] logged in with entity id 43350 at (-737.8117490551708, 64.1212968405392, 338.3520729130996)
 [22Apr2025 22:47:49.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[22Apr2025 22:48:00.798] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[22Apr2025 22:48:00.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[22Apr2025 22:48:07.860] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:55429] logged in with entity id 43502 at (-737.8117490551708, 64.1212968405392, 338.3520729130996)
+[22Apr2025 22:48:07.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[22Apr2025 22:48:19.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> AS
+[22Apr2025 22:48:21.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ASDAD
+[22Apr2025 22:48:27.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> COÑIO
+[22Apr2025 22:48:39.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> sueltame lag
+[22Apr2025 22:48:48.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asd
+[22Apr2025 22:49:39.783] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44031, l='ServerLevel[world]', x=-751.83, y=-256.00, z=300.39] died, message: 'Villager was killed'
+[22Apr2025 22:50:15.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [Local Brewery]
+[22Apr2025 22:55:26.783] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/46188, l='ServerLevel[world]', x=-751.83, y=-256.00, z=300.39] died, message: 'Villager was killed'

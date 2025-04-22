@@ -5900,9 +5900,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/kelp_roll": {
+  "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
-      "has_dried_kelp": "2025-04-22 22:41:18 +0000"
+      "has_nether_wart": "2025-04-22 21:34:53 +0000"
     },
     "done": true
   },
@@ -5912,15 +5912,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
+  "farmersdelight:recipes/food/kelp_roll": {
     "criteria": {
-      "has_nether_wart": "2025-04-22 21:34:53 +0000"
+      "has_dried_kelp": "2025-04-22 22:41:18 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2025-04-22 22:41:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-22 22:49:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-04-22 22:50:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-22 22:49:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-22 22:49:50 +0000"
     },
     "done": true
   },
