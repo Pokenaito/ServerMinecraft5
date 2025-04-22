@@ -2280,3 +2280,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Apr2025 03:06:15.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Es que ando haciendo mi mierda ahorita porque cuando esten los muchachos se mueren de Lag
 [22Apr2025 03:16:02.133] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.16.25.131:49195] logged in with entity id 5574 at (-612.5, 63.0, 424.5)
 [22Apr2025 03:16:02.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[22Apr2025 03:21:29.615] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6849, l='ServerLevel[world]', x=-734.58, y=-256.00, z=301.45] died, message: 'Villager was killed'
+[22Apr2025 03:23:30.568] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7284, l='ServerLevel[world]', x=-764.45, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[22Apr2025 03:26:46.562] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8041, l='ServerLevel[world]', x=-670.36, y=-256.00, z=418.46] died, message: 'Villager was killed'

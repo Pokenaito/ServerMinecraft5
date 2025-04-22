@@ -8610,3 +8610,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Apr2025 03:16:03.678] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [22Apr2025 03:19:42.420] [Server thread/DEBUG] [mixin/]: Mixing vanilla.ContainersMixin from biggerstacks.mixins.json into net.minecraft.world.Containers
 [22Apr2025 03:19:42.420] [Server thread/DEBUG] [mixin/]: biggerstacks.mixins.json:vanilla.ContainersMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[22Apr2025 03:21:03.673] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Apr2025 03:21:03.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Apr2025 03:21:29.615] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6849, l='ServerLevel[world]', x=-734.58, y=-256.00, z=301.45] died, message: 'Villager was killed'
+[22Apr2025 03:23:12.771] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$022c4ae8b73041a49730f42b62039e5c (originally com/abdelaziz/canary/mixin/ai/poi/SectionStorageMixin$1)
+[22Apr2025 03:23:30.568] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7284, l='ServerLevel[world]', x=-764.45, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[22Apr2025 03:23:44.423] [Server thread/DEBUG] [mixin/]: Mixing alloc.enum_values.piston_structure.PistonStructureResolverMixin from canary.mixins.json into net.minecraft.world.level.block.piston.PistonStructureResolver
+[22Apr2025 03:26:03.660] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Apr2025 03:26:03.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Apr2025 03:26:46.562] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8041, l='ServerLevel[world]', x=-670.36, y=-256.00, z=418.46] died, message: 'Villager was killed'
+[22Apr2025 03:29:44.383] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-592, y=63, z=412}) doesn't have enough leaves around top most log
