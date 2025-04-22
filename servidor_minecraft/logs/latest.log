@@ -2303,3 +2303,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Apr2025 22:22:49.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaag
 [22Apr2025 22:22:53.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> afga
 [22Apr2025 22:22:55.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> sueltame el brazo lag
+[22Apr2025 22:28:51.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina died whilst trying to escape The Spitter
+[22Apr2025 22:29:08.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina liquified to Fanta juice
+[22Apr2025 22:29:39.782] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35234, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.30] died, message: 'Villager was killed'
+[22Apr2025 22:30:42.782] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35668, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.30] died, message: 'Villager was killed'
+[22Apr2025 22:32:46.782] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/36804, l='ServerLevel[world]', x=-231.76, y=-256.00, z=109.69] died, message: 'Villager was killed'
