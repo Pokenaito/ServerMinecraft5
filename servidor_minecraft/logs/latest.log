@@ -2327,3 +2327,46 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Apr2025 22:49:39.783] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44031, l='ServerLevel[world]', x=-751.83, y=-256.00, z=300.39] died, message: 'Villager was killed'
 [22Apr2025 22:50:15.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [Local Brewery]
 [22Apr2025 22:55:26.783] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/46188, l='ServerLevel[world]', x=-751.83, y=-256.00, z=300.39] died, message: 'Villager was killed'
+[22Apr2025 22:59:09.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> -445, 85, 479
+[22Apr2025 23:02:59.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [Cobweb Entanglement]
+[22Apr2025 23:06:01.305] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[22Apr2025 23:06:01.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[22Apr2025 23:08:53.242] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[22Apr2025 23:09:18.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ASD
+[22Apr2025 23:09:19.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ASDASASD
+[22Apr2025 23:09:20.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ASDASDA
+[22Apr2025 23:11:18.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> AS
+[22Apr2025 23:12:54.767] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:51405] logged in with entity id 56461 at (-662.264518504916, 63.0, 412.41692260326204)
+[22Apr2025 23:12:54.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[22Apr2025 23:13:58.782] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/57406, l='ServerLevel[world]', x=-764.64, y=-256.00, z=338.86] died, message: 'Villager was killed'
+[22Apr2025 23:14:52.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdad
+[22Apr2025 23:15:40.293] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[22Apr2025 23:15:40.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[22Apr2025 23:16:06.883] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/58608, l='ServerLevel[world]', x=-662.03, y=-256.00, z=410.00] died, message: 'Villager was killed'
+[22Apr2025 23:16:12.913] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:47785] logged in with entity id 58649 at (-808.0603071307318, 63.0, -857.3000000119209)
+[22Apr2025 23:16:12.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[22Apr2025 23:16:22.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdasd
+[22Apr2025 23:16:22.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asda
+[22Apr2025 23:16:28.782] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/58933, l='ServerLevel[world]', x=-764.64, y=-256.00, z=338.86] died, message: 'Villager was killed'
+[22Apr2025 23:16:43.045] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[22Apr2025 23:16:43.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[22Apr2025 23:17:05.905] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:50999] logged in with entity id 59241 at (-808.0603071307318, 63.0, -857.3000000119209)
+[22Apr2025 23:17:05.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[22Apr2025 23:17:13.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> er culo
+[22Apr2025 23:17:15.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> culo
+[22Apr2025 23:17:17.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> culo
+[22Apr2025 23:17:23.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> culo
+[22Apr2025 23:17:26.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> culo
+[22Apr2025 23:17:29.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> culo
+[22Apr2025 23:17:29.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> rICO
+[22Apr2025 23:17:31.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> aja ya
+[22Apr2025 23:17:32.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> DONDE
+[22Apr2025 23:22:12.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> sad
+[22Apr2025 23:22:27.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asd
+[22Apr2025 23:22:56.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 8.068609856407875,-6.304316827457541,-0.819653062800171
+[22Apr2025 23:23:08.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> sadasdsa
+[22Apr2025 23:23:09.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdasdas
+[22Apr2025 23:23:14.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> culo
+[22Apr2025 23:23:16.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> culo
+[22Apr2025 23:27:52.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdkapsjdas´pod
+[22Apr2025 23:27:57.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> rico culo
