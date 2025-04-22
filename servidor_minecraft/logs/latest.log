@@ -2277,3 +2277,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Apr2025 21:30:40.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> as
 [22Apr2025 21:35:44.757] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-719, y=61, z=384} BlockPos{x=-719, y=59, z=384}
 [22Apr2025 21:43:47.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[22Apr2025 21:49:54.783] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11987, l='ServerLevel[world]', x=-734.58, y=-256.00, z=301.45] died, message: 'Villager was killed'
+[22Apr2025 21:53:07.482] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13149, l='ServerLevel[world]', x=-662.10, y=-256.00, z=409.79] died, message: 'Villager was killed'
+[22Apr2025 21:53:50.533] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13365, l='ServerLevel[world]', x=-661.51, y=-256.00, z=409.96] died, message: 'Villager was killed'
+[22Apr2025 21:55:26.882] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13981, l='ServerLevel[world]', x=-764.39, y=-256.00, z=339.00] died, message: 'Villager was killed'
+[22Apr2025 21:55:37.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> A
+[22Apr2025 21:55:38.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> AS
+[22Apr2025 21:55:41.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> AS
+[22Apr2025 21:55:45.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> CULO
+[22Apr2025 21:56:17.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
