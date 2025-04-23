@@ -2925,3 +2925,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Apr2025 06:01:33.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
 [23Apr2025 06:08:47.911] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/181944, l='ServerLevel[world]', x=-764.38, y=-256.00, z=338.99] died, message: 'Villager was killed'
 [23Apr2025 06:11:41.210] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/183299, l='ServerLevel[world]', x=-764.64, y=-256.00, z=338.86] died, message: 'Villager was killed'
+[23Apr2025 06:20:40.716] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[23Apr2025 06:20:40.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game

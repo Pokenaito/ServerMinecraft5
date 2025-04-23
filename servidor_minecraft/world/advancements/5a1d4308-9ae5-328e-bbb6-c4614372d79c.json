@@ -2051,6 +2051,7 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
+      "vegetable_soup": "2025-04-23 06:13:36 +0000",
       "beef_stew": "2025-04-18 04:21:00 +0000"
     },
     "done": false
