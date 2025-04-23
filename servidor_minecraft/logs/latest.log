@@ -2282,3 +2282,222 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Apr2025 01:24:48.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> XDDDDDDDDDDDDDD
 [23Apr2025 01:24:58.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Diablo
 [23Apr2025 01:25:08.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Muelto
+[23Apr2025 01:32:19.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> alla te deje zanahorias de oro
+[23Apr2025 01:32:22.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Que Paso?
+[23Apr2025 01:33:47.873] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1df977a[id=<null>,name=Pokenaito,properties={},legacy=false] (/127.71.15.208:38019) lost connection: Internal Exception: java.util.ConcurrentModificationException
+[23Apr2025 01:34:01.632] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:57067] logged in with entity id 14213 at (130.8833264061629, 63.085764312744146, -1123.4747368341632)
+[23Apr2025 01:34:01.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[23Apr2025 01:34:31.938] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[23Apr2025 01:34:31.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[23Apr2025 01:34:44.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> a dormi
+[23Apr2025 01:34:44.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> vpy
+[23Apr2025 01:34:45.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> xd
+[23Apr2025 01:34:50.881] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:48001] logged in with entity id 14654 at (130.8833264061629, 63.085764312744146, -1123.4747368341632)
+[23Apr2025 01:34:50.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[23Apr2025 01:35:01.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> TDuerme sebas cabron
+[23Apr2025 01:35:07.429] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[23Apr2025 01:35:07.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[23Apr2025 01:35:24.183] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:39523] logged in with entity id 14981 at (130.8833264061629, 63.085764312744146, -1123.4747368341632)
+[23Apr2025 01:35:24.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[23Apr2025 01:35:38.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[23Apr2025 01:35:40.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> sua
+[23Apr2025 01:35:42.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> culo
+[23Apr2025 01:35:55.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> lag
+[23Apr2025 01:35:57.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> sueltame
+[23Apr2025 01:35:59.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ahora
+[23Apr2025 01:36:57.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 10.177875759524085,0.023088109101550458,-1.0051869468302357
+[23Apr2025 01:36:59.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito was kicked for floating too long!
+[23Apr2025 01:36:59.537] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Flying is not enabled on this server
+[23Apr2025 01:36:59.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[23Apr2025 01:37:07.666] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player Lechina just tried to change non-editable sign
+[23Apr2025 01:37:11.634] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:60341] logged in with entity id 16231 at (150.05080221760855, 71.17675927506424, -1114.3052518769478)
+[23Apr2025 01:37:11.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[23Apr2025 01:37:28.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> culoi
+[23Apr2025 01:37:30.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> colu
+[23Apr2025 01:37:33.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> aosdkaod
+[23Apr2025 01:37:50.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ya bastraaaaa
+[23Apr2025 01:37:57.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> sua
+[23Apr2025 01:37:59.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> colo
+[23Apr2025 01:38:02.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> listo
+[23Apr2025 01:38:06.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> esta pasao el lag
+[23Apr2025 01:38:09.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Coño por fin mano
+[23Apr2025 01:38:41.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Y ese guajiro
+[23Apr2025 01:38:55.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Pensaba que era familiar tuyo
+[23Apr2025 01:39:04.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> A vergaaaaaaa primoooooo
+[23Apr2025 01:39:08.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Anda todo tapao
+[23Apr2025 01:39:15.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Si si ese es yonaiker
+[23Apr2025 01:39:21.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> veni mijo
+[23Apr2025 01:40:57.071] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[23Apr2025 01:40:57.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[23Apr2025 01:41:17.582] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:38809] logged in with entity id 18542 at (370.3412402112812, 88.0, -1039.478895873437)
+[23Apr2025 01:41:17.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[23Apr2025 01:41:26.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> mecagoen
+[23Apr2025 01:41:56.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> el inernet esta de remate hoy
+[23Apr2025 01:43:00.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 9.826972942968666,0.7539862017387549,2.584165198927849
+[23Apr2025 01:43:04.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito was kicked for floating too long!
+[23Apr2025 01:43:04.324] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Flying is not enabled on this server
+[23Apr2025 01:43:04.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[23Apr2025 01:46:52.460] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20501, l='ServerLevel[world]', x=-764.64, y=-256.00, z=338.86] died, message: 'Villager was killed'
+[23Apr2025 01:48:36.461] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21062, l='ServerLevel[world]', x=-734.58, y=-256.00, z=301.45] died, message: 'Villager was killed'
+[23Apr2025 01:48:53.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Dormimos
+[23Apr2025 01:48:59.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Si quieres
+[23Apr2025 01:49:19.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Verga Pobre sebas weon
+[23Apr2025 01:49:26.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> En el discord
+[23Apr2025 01:49:31.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Lo esta matando el lag
+[23Apr2025 01:49:33.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Que esta Ahi?
+[23Apr2025 01:49:36.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Esta que se pega un tiro
+[23Apr2025 01:49:39.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Estaba
+[23Apr2025 01:49:44.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Fue a reiniciar el router
+[23Apr2025 01:49:48.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> XD
+[23Apr2025 01:53:00.042] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23Apr2025 01:53:00.080] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker succeeded with 43 radius, 1 samples
+[23Apr2025 01:53:40.505] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23Apr2025 01:53:40.525] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker succeeded with 446 radius, 1 samples
+[23Apr2025 01:53:52.688] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:34783] logged in with entity id 23586 at (412.43658780950886, 89.16610926093821, -1022.3791272753436)
+[23Apr2025 01:53:52.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[23Apr2025 01:54:08.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdas
+[23Apr2025 01:54:13.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> conectate
+[23Apr2025 01:54:17.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> let me in
+[23Apr2025 01:54:22.778] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[23Apr2025 01:54:22.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[23Apr2025 01:55:10.971] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2f601016[id=<null>,name=Pokenaito,properties={},legacy=false] (/127.71.15.208:43655) lost connection: Disconnected
+[23Apr2025 01:55:21.284] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:40205] logged in with entity id 25312 at (412.43658780950886, 89.16610926093821, -1022.3791272753436)
+[23Apr2025 01:55:21.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[23Apr2025 01:55:39.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> aver hijo de tu cubica madre, dejame jugar
+[23Apr2025 01:55:54.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> let me in
+[23Apr2025 01:55:57.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> culo
+[23Apr2025 01:55:59.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> culko
+[23Apr2025 01:56:00.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> clocak
+[23Apr2025 01:56:39.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[23Apr2025 01:57:50.502] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23Apr2025 01:57:50.675] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker succeeded with 2988 radius, 8 samples
+[23Apr2025 01:58:26.578] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23Apr2025 01:58:28.224] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker succeeded with 2746 radius, 23 samples
+[23Apr2025 01:58:34.278] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23Apr2025 01:58:38.665] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker succeeded with 6650 radius, 139 samples
+[23Apr2025 01:58:38.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3522ms or 70 ticks behind
+[23Apr2025 01:58:42.305] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23Apr2025 01:58:47.468] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker succeeded with 3208 radius, 25 samples
+[23Apr2025 01:58:52.735] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23Apr2025 01:58:54.121] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker succeeded with 4122 radius, 59 samples
+[23Apr2025 01:58:57.933] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23Apr2025 01:58:57.982] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker succeeded with 532 radius, 5 samples
+[23Apr2025 01:59:24.278] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[23Apr2025 01:59:24.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[23Apr2025 01:59:54.131] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:55071] logged in with entity id 28211 at (440.30000001192093, 96.0, -985.3000000119209)
+[23Apr2025 01:59:54.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[23Apr2025 02:00:09.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> aver
+[23Apr2025 02:00:17.960] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/28823, l='ServerLevel[world]', x=-765.25, y=-256.00, z=350.01] died, message: 'Villager was killed'
+[23Apr2025 02:00:23.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> duende
+[23Apr2025 02:00:24.224] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[23Apr2025 02:00:24.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[23Apr2025 02:00:37.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Esta sebas en el discord?
+[23Apr2025 02:00:41.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Estaba
+[23Apr2025 02:00:44.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> se salio de nuevo
+[23Apr2025 02:00:45.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> xd
+[23Apr2025 02:00:54.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> herobrineme ve mientras duermo
+[23Apr2025 02:00:57.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Veni a ver XD
+[23Apr2025 02:01:04.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Toy afuera
+[23Apr2025 02:01:11.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> a
+[23Apr2025 02:01:13.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Ya se fue
+[23Apr2025 02:01:36.960] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/29868, l='ServerLevel[world]', x=-734.58, y=-256.00, z=301.45] died, message: 'Villager was killed'
+[23Apr2025 02:01:53.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> No vas a dormir?
+[23Apr2025 02:01:57.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Voyvoy
+[23Apr2025 02:02:11.633] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:50275] logged in with entity id 30095 at (440.30000001192093, 96.0, -985.3000000119209)
+[23Apr2025 02:02:11.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[23Apr2025 02:02:17.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> seba dormi
+[23Apr2025 02:02:17.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> XD
+[23Apr2025 02:02:27.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> sebaaaaaaaa
+[23Apr2025 02:02:27.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> SEBA CONECTATE DESDE EL TELEFONO
+[23Apr2025 02:02:28.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> puta internet de los cojones
+[23Apr2025 02:02:29.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> acostateeeeee
+[23Apr2025 02:02:41.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> CONECTATE DESDE EL TELEFONO COMO KARLA
+[23Apr2025 02:02:47.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> VERGA
+[23Apr2025 02:02:59.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[23Apr2025 02:02:59.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[23Apr2025 02:03:04.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> NO ES REGAÑO ES UN LLAMADO DE EMEGENCIA BABY
+[23Apr2025 02:03:25.606] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23Apr2025 02:03:25.632] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker succeeded with 3371 radius, 10 samples
+[23Apr2025 02:04:20.028] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:50625] logged in with entity id 30807 at (440.30000001192093, 96.0, -985.3000000119209)
+[23Apr2025 02:04:20.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[23Apr2025 02:04:32.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> me quiero corta una bola
+[23Apr2025 02:04:38.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> vot a agarrar agua
+[23Apr2025 02:04:44.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Vuelvo en un rato
+[23Apr2025 02:04:46.324] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Disconnected
+[23Apr2025 02:04:46.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[23Apr2025 02:04:58.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> verga si se estabiliza luego de que se salga Miguel
+[23Apr2025 02:05:01.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> lo peor es que el internet si va bien
+[23Apr2025 02:05:11.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> va a 4 megas
+[23Apr2025 02:05:25.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> No has probado conectando internet desde el telefono?
+[23Apr2025 02:05:29.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Como Karla
+[23Apr2025 02:05:41.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> pero por momentos se baja de golpe a 0 kbpd
+[23Apr2025 02:06:03.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> mi problema no es la recepcion, es el envio, ese router ya esta obsoleto
+[23Apr2025 02:06:20.370] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[23Apr2025 02:06:20.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[23Apr2025 02:07:41.532] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:37509] logged in with entity id 33085 at (436.27323108334207, 101.41999998688698, -982.3000000119209)
+[23Apr2025 02:07:41.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[23Apr2025 02:07:55.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[23Apr2025 02:08:20.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito was kicked for floating too long!
+[23Apr2025 02:08:20.320] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Flying is not enabled on this server
+[23Apr2025 02:08:20.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[23Apr2025 02:09:12.777] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:49643] logged in with entity id 34920 at (423.7236147934458, 103.25220334025373, -935.1132796025764)
+[23Apr2025 02:09:12.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[23Apr2025 02:09:35.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> algun dia
+[23Apr2025 02:09:51.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> sancocho
+[23Apr2025 02:10:11.938] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[23Apr2025 02:10:11.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[23Apr2025 02:10:14.264] [Worker-Main-39/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Apr2025 02:10:14.265] [Worker-Main-39/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Apr2025 02:10:47.231] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:54603] logged in with entity id 36569 at (423.7236147934458, 103.25220334025373, -935.1132796025764)
+[23Apr2025 02:10:47.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[23Apr2025 02:11:09.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> as
+[23Apr2025 02:12:23.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ok
+[23Apr2025 02:12:30.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> parece que se estabilizo
+[23Apr2025 02:13:21.057] [Worker-Main-50/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Apr2025 02:14:04.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> dormi
+[23Apr2025 02:14:08.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Papi ando Lejos
+[23Apr2025 02:14:13.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> coño
+[23Apr2025 02:14:36.822] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23Apr2025 02:14:36.895] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker succeeded with 380 radius, 2 samples
+[23Apr2025 02:14:50.335] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23Apr2025 02:14:51.583] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker succeeded with 1991 radius, 22 samples
+[23Apr2025 02:14:59.132] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23Apr2025 02:14:59.176] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker succeeded with 393 radius, 2 samples
+[23Apr2025 02:16:47.879] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[23Apr2025 02:16:47.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[23Apr2025 02:17:48.133] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:41409] logged in with entity id 43808 at (-762.8226969533862, 63.0, 342.8090727058067)
+[23Apr2025 02:17:48.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[23Apr2025 02:18:08.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> aveces parece que es el paquete de texturas
+[23Apr2025 02:18:25.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> porque? ni idea pero lo quito y deja de joder la conexion
+[23Apr2025 02:18:38.947] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.16.25.131:39171] logged in with entity id 44962 at (-612.5, 63.0, 424.5)
+[23Apr2025 02:18:38.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[23Apr2025 02:18:47.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> y seba?
+[23Apr2025 02:18:56.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ya regrese
+[23Apr2025 02:19:03.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> con mucho lag pero regrese
+[23Apr2025 02:19:07.961] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/45437, l='ServerLevel[world]', x=-765.25, y=-256.00, z=350.01] died, message: 'Villager was killed'
+[23Apr2025 02:19:21.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> .
+[23Apr2025 02:22:40.461] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/47017, l='ServerLevel[world]', x=-765.07, y=-256.00, z=350.08] died, message: 'Villager was killed'
+[23Apr2025 02:22:51.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> argenito
+[23Apr2025 02:22:53.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> a mimi
+[23Apr2025 02:22:56.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> toy Fuera
+[23Apr2025 02:23:02.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> suelte
+[23Apr2025 02:23:03.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Y es de dia XD
+[23Apr2025 02:24:22.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito was kicked for floating too long!
+[23Apr2025 02:24:22.173] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Flying is not enabled on this server
+[23Apr2025 02:24:22.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[23Apr2025 02:24:46.848] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23Apr2025 02:24:46.876] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker succeeded with 552 radius, 1 samples
+[23Apr2025 02:24:48.888] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:59711] logged in with entity id 48084 at (-621.9982178113919, 64.24918707874468, 402.3464193758683)
+[23Apr2025 02:24:48.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[23Apr2025 02:25:31.984] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[23Apr2025 02:25:31.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[23Apr2025 02:27:07.384] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player Lechina just tried to change non-editable sign
+[23Apr2025 02:27:09.473] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player Lechina just tried to change non-editable sign
+[23Apr2025 02:27:13.228] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player Lechina just tried to change non-editable sign
+[23Apr2025 02:28:11.882] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:41281] logged in with entity id 50039 at (-621.9982178113919, 64.24918707874468, 402.3464193758683)
+[23Apr2025 02:28:11.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[23Apr2025 02:28:35.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ok, estoy intentando por el telefono
+[23Apr2025 02:28:41.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[23Apr2025 02:28:41.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[23Apr2025 02:29:07.087] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:36283] logged in with entity id 50354 at (-621.9982178113919, 64.24918707874468, 402.3464193758683)
+[23Apr2025 02:29:07.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
