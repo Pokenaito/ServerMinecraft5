@@ -2257,3 +2257,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Apr2025 00:19:23.840] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10100 ms
 [23Apr2025 00:19:23.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (17.137s)! For help, type "help"
 [23Apr2025 00:19:24.038] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[23Apr2025 00:30:04.902] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.16.25.131:46359] logged in with entity id 68 at (-599.9714935487984, 63.0, 397.44907697385855)
+[23Apr2025 00:30:04.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[23Apr2025 00:30:07.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2445ms or 48 ticks behind
+[23Apr2025 00:30:19.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Quien mas esta?
+[23Apr2025 00:30:34.966] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Timed out
+[23Apr2025 00:30:34.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[23Apr2025 00:30:35.021] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Apr2025 00:31:18.837] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.16.25.131:59699] logged in with entity id 976 at (-603.8480286051215, 63.7531999805212, 404.0687122263443)
+[23Apr2025 00:31:18.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[23Apr2025 00:32:34.014] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Timed out
+[23Apr2025 00:32:34.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
