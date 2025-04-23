@@ -2501,3 +2501,101 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Apr2025 02:28:41.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
 [23Apr2025 02:29:07.087] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:36283] logged in with entity id 50354 at (-621.9982178113919, 64.24918707874468, 402.3464193758683)
 [23Apr2025 02:29:07.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[23Apr2025 02:29:37.221] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[23Apr2025 02:29:37.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[23Apr2025 02:32:04.403] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23Apr2025 02:32:04.421] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker succeeded with 1097 radius, 10 samples
+[23Apr2025 02:32:06.839] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23Apr2025 02:32:09.661] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker succeeded with 5639 radius, 82 samples
+[23Apr2025 02:32:09.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2656ms or 53 ticks behind
+[23Apr2025 02:32:10.006] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23Apr2025 02:32:10.084] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker succeeded with 2695 radius, 21 samples
+[23Apr2025 02:32:14.346] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23Apr2025 02:32:14.436] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker succeeded with 3845 radius, 33 samples
+[23Apr2025 02:32:16.953] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23Apr2025 02:32:16.971] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker succeeded with 593 radius, 1 samples
+[23Apr2025 02:32:39.994] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23Apr2025 02:32:40.099] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker succeeded with 4841 radius, 17 samples
+[23Apr2025 02:33:55.611] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/52722, l='ServerLevel[world]', x=-764.64, y=-256.00, z=338.86] died, message: 'Villager was killed'
+[23Apr2025 02:36:16.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Ahora si pude llegar
+[23Apr2025 02:36:26.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> veni a ver como me quedo
+[23Apr2025 02:36:26.461] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/54566, l='ServerLevel[world]', x=-765.07, y=-256.00, z=350.08] died, message: 'Villager was killed'
+[23Apr2025 02:36:46.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> MANO
+[23Apr2025 02:36:49.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> QUE BELLO
+[23Apr2025 02:36:51.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> XD
+[23Apr2025 02:37:00.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> pregunta
+[23Apr2025 02:37:04.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Si te quedo Bien woen
+[23Apr2025 02:37:06.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> aja?
+[23Apr2025 02:37:12.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Le pongo para que le salga agua por la boca
+[23Apr2025 02:37:19.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Hazlo
+[23Apr2025 02:37:21.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Y conecte con la pescera?
+[23Apr2025 02:37:28.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Puedes
+[23Apr2025 02:37:33.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Me faltan peces XD
+[23Apr2025 02:37:41.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Nojoda eso es lo de menos
+[23Apr2025 02:40:53.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Cuanto te quito?
+[23Apr2025 02:40:59.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> XD
+[23Apr2025 02:41:23.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> pero da la cara
+[23Apr2025 02:41:31.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina was executed by Zombie62002
+[23Apr2025 02:41:34.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> XDDDDDDDDD
+[23Apr2025 02:41:39.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Ala verga
+[23Apr2025 02:41:48.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Si ta dura
+[23Apr2025 02:41:52.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Me quitas 1
+[23Apr2025 02:42:04.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Verga pero Si o Si y con full armadura
+[23Apr2025 02:42:07.380] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:52167] logged in with entity id 55950 at (-621.9982178113919, 64.24918707874468, 402.3464193758683)
+[23Apr2025 02:42:07.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[23Apr2025 02:42:19.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> aver
+[23Apr2025 02:42:26.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> intento numero 258
+[23Apr2025 02:42:46.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> kilos mortadela
+[23Apr2025 02:42:52.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[23Apr2025 02:43:21.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[23Apr2025 02:45:27.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> epa
+[23Apr2025 02:45:28.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> sebas
+[23Apr2025 02:45:31.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> mitad de vida rey
+[23Apr2025 02:45:33.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito was killed by magic
+[23Apr2025 02:45:33.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 was killed by magic
+[23Apr2025 02:45:40.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> WTFFFFF
+[23Apr2025 02:46:01.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Bro
+[23Apr2025 02:46:04.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> que paso?
+[23Apr2025 02:46:08.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Y la confianza?
+[23Apr2025 02:46:27.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ni supe que paso
+[23Apr2025 02:46:35.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Aja proba la pistola
+[23Apr2025 02:46:40.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asu
+[23Apr2025 02:46:50.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Te bajo la mitad de la vida me dijiste?
+[23Apr2025 02:47:25.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Ya te quedate sin balas
+[23Apr2025 02:47:30.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> una sola xd
+[23Apr2025 02:48:07.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Proba esa arma migue
+[23Apr2025 02:48:16.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> alejate argenis
+[23Apr2025 02:48:24.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Que la pruebes
+[23Apr2025 02:48:34.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Mano eso es adictivo
+[23Apr2025 02:48:35.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Sin bala
+[23Apr2025 02:48:39.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> exacti
+[23Apr2025 02:48:47.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Danela pues
+[23Apr2025 02:50:48.611] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/58963, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.30] died, message: 'Villager was killed'
+[23Apr2025 02:52:28.610] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/59541, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.30] died, message: 'Villager was killed'
+[23Apr2025 02:52:52.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> metete al discor
+[23Apr2025 02:54:25.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> ustedes escuchan los tiros?
+[23Apr2025 02:54:32.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Lastimosamente
+[23Apr2025 02:55:16.611] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/60521, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.30] died, message: 'Villager was killed'
+[23Apr2025 02:57:42.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Cobweb Entanglement]
+[23Apr2025 03:00:54.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 0.6273820307205238
+[23Apr2025 03:00:54.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 0.6273820307205238
+[23Apr2025 03:00:54.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 0.6273820307205238
+[23Apr2025 03:00:54.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 0.6273820307205238
+[23Apr2025 03:00:54.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 0.6273820307205238
+[23Apr2025 03:01:07.686] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kierbyuwu[/127.160.147.109:55207] logged in with entity id 64623 at (-685.5, 67.0, 368.5)
+[23Apr2025 03:01:07.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kierbyuwu joined the game
+[23Apr2025 03:01:46.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kierbyuwu> MIGUEEEEL
+[23Apr2025 03:05:07.182] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23Apr2025 03:05:07.242] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker succeeded with 2726 radius, 8 samples
+[23Apr2025 03:05:35.830] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23Apr2025 03:05:35.905] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker succeeded with 2503 radius, 24 samples
+[23Apr2025 03:05:38.226] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23Apr2025 03:05:38.283] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker succeeded with 1433 radius, 8 samples
+[23Apr2025 03:05:40.880] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23Apr2025 03:05:42.234] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker succeeded with 5171 radius, 83 samples
+[23Apr2025 03:05:46.075] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23Apr2025 03:05:46.126] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker succeeded with 1492 radius, 6 samples
+[23Apr2025 03:05:50.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[23Apr2025 03:05:56.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[23Apr2025 03:09:19.922] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23Apr2025 03:09:19.971] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker succeeded with 717 radius, 2 samples

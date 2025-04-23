@@ -33,6 +33,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-19 05:07:58 +0000",
       "minecraft:taiga": "2025-04-23 02:15:40 +0000",
+      "minecraft:frozen_river": "2025-04-23 03:01:07 +0000",
       "minecraft:sunflower_plains": "2025-04-17 04:34:17 +0000",
       "minecraft:cherry_grove": "2025-04-19 05:05:47 +0000",
       "minecraft:birch_forest": "2025-04-17 04:30:45 +0000",
@@ -46,11 +47,15 @@
       "minecraft:stony_shore": "2025-04-11 02:43:53 +0000",
       "minecraft:snowy_plains": "2025-04-23 02:26:58 +0000",
       "minecraft:dripstone_caves": "2025-04-17 04:36:20 +0000",
+      "minecraft:snowy_taiga": "2025-04-23 03:01:05 +0000",
       "minecraft:grove": "2025-04-23 02:16:19 +0000",
       "minecraft:swamp": "2025-04-23 02:10:44 +0000",
+      "minecraft:cold_ocean": "2025-04-23 03:09:29 +0000",
       "minecraft:forest": "2025-04-11 01:59:04 +0000",
       "minecraft:lush_caves": "2025-04-18 02:08:26 +0000",
+      "minecraft:frozen_ocean": "2025-04-23 03:01:18 +0000",
       "minecraft:desert": "2025-04-17 22:30:29 +0000",
+      "minecraft:deep_frozen_ocean": "2025-04-23 03:01:50 +0000",
       "minecraft:windswept_forest": "2025-04-23 02:10:37 +0000",
       "minecraft:ocean": "2025-04-18 00:04:59 +0000",
       "minecraft:jungle": "2025-04-19 04:19:54 +0000",
@@ -4774,7 +4779,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_monster_room": "2025-04-17 04:38:21 +0000"
+      "in_better_monster_room": "2025-04-17 04:38:21 +0000",
+      "in_better_spider_dungeon": "2025-04-23 02:57:42 +0000"
     },
     "done": false
   },
@@ -7344,15 +7350,153 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-23 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-23 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/iron_blueprint": {
+    "criteria": {
+      "iron_blueprint": "2025-04-23 02:31:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-04-23 03:03:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-23 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_pane_from_glass_panes_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_panes_colorless": "2025-04-23 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-23 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/iron/auvtomag": {
+    "criteria": {
+      "auvtomag": "2025-04-23 02:38:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-23 02:44:24 +0000"
+    },
+    "done": true
+  },
   "scguns:main/copper/makeshift_rifle": {
     "criteria": {
       "makeshift_rifle": "2025-04-23 01:56:56 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-23 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/vertical_framed_glass_pane_from_glass_panes_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_panes_colorless": "2025-04-23 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_pane_from_glass_panes_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_panes_colorless": "2025-04-23 02:44:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/harvest_ropelogged_tomato": {
     "criteria": {
       "harvest_ropelogged_tomato": "2025-04-23 01:33:19 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/copper/scrapper": {
+    "criteria": {
+      "scrapper": "2025-04-23 02:30:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-23 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-23 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_pane_from_glass_panes_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_panes_colorless": "2025-04-23 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-23 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-23 03:03:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-23 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-23 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-23 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-04-23 02:57:42 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/treated_brass_blueprint": {
+    "criteria": {
+      "treated_brass_blueprint": "2025-04-23 02:31:32 +0000"
     },
     "done": true
   },
