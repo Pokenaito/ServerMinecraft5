@@ -2297,3 +2297,29 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Apr2025 23:22:43.002] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.106.87.114:54747] logged in with entity id 17622 at (-610.2136877572568, 63.0, 425.1675422392791)
 [23Apr2025 23:22:43.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
 [23Apr2025 23:23:00.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[23Apr2025 23:24:39.593] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Timed out
+[23Apr2025 23:24:39.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[23Apr2025 23:27:11.946] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[23Apr2025 23:27:11.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[23Apr2025 23:27:17.056] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:44349] logged in with entity id 18800 at (-764.0619232368578, 65.41999998688698, 370.4640673330357)
+[23Apr2025 23:27:17.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[23Apr2025 23:27:34.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> cu
+[23Apr2025 23:27:53.243] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[23Apr2025 23:27:53.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[23Apr2025 23:28:13.508] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:57051] logged in with entity id 19042 at (-764.0619232368578, 65.41999998688698, 370.4640673330357)
+[23Apr2025 23:28:13.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[23Apr2025 23:28:31.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> let me in
+[23Apr2025 23:28:35.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> LET ME IN
+[23Apr2025 23:28:50.294] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[23Apr2025 23:28:50.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[23Apr2025 23:28:56.238] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Disconnected
+[23Apr2025 23:28:56.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[23Apr2025 23:28:59.103] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:59845] logged in with entity id 19260 at (-764.0619232368578, 65.41999998688698, 370.4640673330357)
+[23Apr2025 23:28:59.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[23Apr2025 23:29:05.234] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20055, l='ServerLevel[world]', x=-764.64, y=-256.00, z=338.86] died, message: 'Villager was killed'
+[23Apr2025 23:29:06.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[23Apr2025 23:29:23.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[23Apr2025 23:30:06.233] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20145, l='ServerLevel[world]', x=-765.25, y=-256.00, z=350.01] died, message: 'Villager was killed'
+[23Apr2025 23:31:18.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[23Apr2025 23:32:15.733] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20505, l='ServerLevel[world]', x=-765.07, y=-256.00, z=350.08] died, message: 'Villager was killed'
+[23Apr2025 23:33:30.234] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20752, l='ServerLevel[world]', x=-751.83, y=-256.00, z=300.39] died, message: 'Villager was killed'
