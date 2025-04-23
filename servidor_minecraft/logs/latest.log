@@ -2906,3 +2906,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Apr2025 05:50:28.677] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CalbiBaa lost connection: Disconnected
 [23Apr2025 05:50:28.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa left the game
 [23Apr2025 05:52:25.211] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/177018, l='ServerLevel[world]', x=-765.07, y=-256.00, z=350.08] died, message: 'Villager was killed'
+[23Apr2025 05:53:57.535] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CalbiBaa[/127.198.28.85:35719] logged in with entity id 177635 at (-739.0320912062192, 61.0625, 301.76619815575765)
+[23Apr2025 05:53:57.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa joined the game
+[23Apr2025 05:56:42.519] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CalbiBaa lost connection: Disconnected
+[23Apr2025 05:56:42.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa left the game
+[23Apr2025 05:56:44.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kierbyuwu was killed by magic
+[23Apr2025 05:56:47.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 was killed by magic
+[23Apr2025 05:57:28.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: %1$s was slain by %2$s
+[23Apr2025 05:57:38.422] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MawMaw123 lost connection: Disconnected
+[23Apr2025 05:57:38.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 left the game
+[23Apr2025 05:57:41.741] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -9.379483158982339,-0.49520087700592086,3.5290316432263467
+[23Apr2025 05:57:51.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 was slain by Swarm
+[23Apr2025 05:57:53.468] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kierbyuwu lost connection: Disconnected
+[23Apr2025 05:57:53.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kierbyuwu left the game
+[23Apr2025 05:58:43.820] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Disconnected
+[23Apr2025 05:58:43.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[23Apr2025 06:01:33.669] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[23Apr2025 06:01:33.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game

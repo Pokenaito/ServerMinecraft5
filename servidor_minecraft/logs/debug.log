@@ -16288,3 +16288,55 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Apr2025 05:53:55.379] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config biggerstacks-server.toml' to 'fml:handshake' sequence 27
 [23Apr2025 05:53:55.424] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config gravestone-server.toml' to 'fml:handshake' sequence 28
 [23Apr2025 05:53:55.479] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 29
+[23Apr2025 05:53:55.527] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 30
+[23Apr2025 05:53:55.580] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 31
+[23Apr2025 05:53:57.404] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[23Apr2025 05:53:57.404] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Apr2025 05:53:57.404] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Apr2025 05:53:57.410] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[23Apr2025 05:53:57.410] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Apr2025 05:53:57.410] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Apr2025 05:53:57.411] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[23Apr2025 05:53:57.411] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Apr2025 05:53:57.411] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Apr2025 05:53:57.418] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[23Apr2025 05:53:57.418] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Apr2025 05:53:57.418] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Apr2025 05:53:57.423] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[23Apr2025 05:53:57.423] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Apr2025 05:53:57.423] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Apr2025 05:53:57.435] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[23Apr2025 05:53:57.435] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Apr2025 05:53:57.435] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Apr2025 05:53:57.448] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[23Apr2025 05:53:57.448] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Apr2025 05:53:57.448] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Apr2025 05:53:57.453] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[23Apr2025 05:53:57.453] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Apr2025 05:53:57.453] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Apr2025 05:53:57.471] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[23Apr2025 05:53:57.471] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Apr2025 05:53:57.471] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Apr2025 05:53:57.475] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[23Apr2025 05:53:57.535] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CalbiBaa[/127.198.28.85:35719] logged in with entity id 177635 at (-739.0320912062192, 61.0625, 301.76619815575765)
+[23Apr2025 05:53:57.535] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@1a9c7694 into net.minecraft.network.Connection@52fde1e5
+[23Apr2025 05:53:57.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa joined the game
+[23Apr2025 05:54:35.304] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 05:54:35.312] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 05:56:42.519] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CalbiBaa lost connection: Disconnected
+[23Apr2025 05:56:42.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa left the game
+[23Apr2025 05:56:44.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kierbyuwu was killed by magic
+[23Apr2025 05:56:47.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 was killed by magic
+[23Apr2025 05:57:28.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: %1$s was slain by %2$s
+[23Apr2025 05:57:38.422] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MawMaw123 lost connection: Disconnected
+[23Apr2025 05:57:38.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 left the game
+[23Apr2025 05:57:41.741] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -9.379483158982339,-0.49520087700592086,3.5290316432263467
+[23Apr2025 05:57:51.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 was slain by Swarm
+[23Apr2025 05:57:53.468] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kierbyuwu lost connection: Disconnected
+[23Apr2025 05:57:53.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kierbyuwu left the game
+[23Apr2025 05:58:43.820] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Disconnected
+[23Apr2025 05:58:43.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[23Apr2025 05:59:35.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 05:59:35.290] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 06:01:33.669] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[23Apr2025 06:01:33.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
