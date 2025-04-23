@@ -8763,3 +8763,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Apr2025 00:55:52.328] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.16.25.131:57641] logged in with entity id 3731 at (-606.0230897278367, 64.0, 413.6285693117488)
 [23Apr2025 00:55:52.328] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@1ecdd23c into net.minecraft.network.Connection@ac0e523
 [23Apr2025 00:55:52.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[23Apr2025 00:59:26.509] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 00:59:26.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 00:59:30.119] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$d1316b822754409bb01d57bd098fbbef (originally com/abdelaziz/canary/mixin/ai/poi/SectionStorageMixin$1)
+[23Apr2025 01:04:26.506] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 01:04:26.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

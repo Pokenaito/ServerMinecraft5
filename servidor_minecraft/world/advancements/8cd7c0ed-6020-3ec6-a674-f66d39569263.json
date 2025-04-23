@@ -462,6 +462,7 @@
       "potato": "2025-04-19 04:16:19 +0000",
       "bread": "2025-04-20 18:08:03 +0000",
       "salmon": "2025-04-19 04:15:10 +0000",
+      "golden_carrot": "2025-04-23 01:00:50 +0000",
       "cooked_chicken": "2025-04-20 16:23:29 +0000",
       "cooked_salmon": "2025-04-20 16:33:55 +0000",
       "carrot": "2025-04-19 03:38:24 +0000"
@@ -3477,6 +3478,24 @@
   "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
       "has_red_wool": "2025-04-22 23:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-23 00:56:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-04-23 00:57:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-23 00:56:53 +0000"
     },
     "done": true
   },
