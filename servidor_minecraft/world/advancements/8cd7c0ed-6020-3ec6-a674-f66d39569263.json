@@ -3619,9 +3619,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2025-04-23 03:19:04 +0000"
+    },
+    "done": true
+  },
   "scguns:main/iron/auvtomag": {
     "criteria": {
       "auvtomag": "2025-04-23 02:48:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2025-04-23 03:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2025-04-23 03:19:04 +0000"
     },
     "done": true
   },
