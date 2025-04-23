@@ -2278,3 +2278,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Apr2025 22:53:02.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
 [23Apr2025 22:54:02.309] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:53185] logged in with entity id 10349 at (-765.4848304575667, 63.0, 364.19943689025456)
 [23Apr2025 22:54:02.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[23Apr2025 22:54:13.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[23Apr2025 22:54:27.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[23Apr2025 22:54:41.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> al
+[23Apr2025 23:01:06.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[23Apr2025 23:02:15.359] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.106.87.114:33543] logged in with entity id 12370 at (-611.2830084162691, 63.0, 401.046638367955)
+[23Apr2025 23:02:15.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[23Apr2025 23:02:30.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Andamos en discord
+[23Apr2025 23:02:33.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Y esa armadura?
+[23Apr2025 23:02:45.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> es que la de diamante desde ayer me la jodieron
+[23Apr2025 23:03:06.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Si estan pasaos vale
+[23Apr2025 23:03:25.545] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Disconnected
+[23Apr2025 23:03:25.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[23Apr2025 23:06:42.234] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13855, l='ServerLevel[world]', x=-764.64, y=-256.00, z=338.86] died, message: 'Villager was killed'
+[23Apr2025 23:07:36.234] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14048, l='ServerLevel[world]', x=-751.83, y=-256.00, z=300.39] died, message: 'Villager was killed'
+[23Apr2025 23:10:19.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[23Apr2025 23:12:53.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
