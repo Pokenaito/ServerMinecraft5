@@ -2897,3 +2897,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Apr2025 05:39:42.143] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.53.105.40:38129] logged in with entity id 169567 at (-703.9835486017358, 64.0, 328.02314026989524)
 [23Apr2025 05:39:42.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
 [23Apr2025 05:41:38.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 was eliminated by Zombie62002
+[23Apr2025 05:44:58.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 was annihilated by Zombie62002
+[23Apr2025 05:46:17.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 has made the advancement [Crops of the Wild]
+[23Apr2025 05:48:06.711] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/174483, l='ServerLevel[world]', x=-765.07, y=-256.00, z=350.08] died, message: 'Villager was killed'
+[23Apr2025 05:50:02.880] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5a428a66[id=<null>,name=Lechina,properties={},legacy=false] (/127.194.114.177:47087) lost connection: Disconnected
+[23Apr2025 05:50:08.492] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.194.114.177:43839] logged in with entity id 175639 at (-611.1890352838359, 63.0, 425.12902402319787)
+[23Apr2025 05:50:08.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[23Apr2025 05:50:28.677] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CalbiBaa lost connection: Disconnected
+[23Apr2025 05:50:28.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa left the game
+[23Apr2025 05:52:25.211] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/177018, l='ServerLevel[world]', x=-765.07, y=-256.00, z=350.08] died, message: 'Villager was killed'
