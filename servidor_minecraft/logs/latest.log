@@ -2660,3 +2660,118 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Apr2025 03:50:58.160] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/85680, l='ServerLevel[world]', x=-655.47, y=-256.00, z=407.23] died, message: 'Villager was killed'
 [23Apr2025 03:53:48.511] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/86766, l='ServerLevel[world]', x=-765.40, y=-256.00, z=338.90] died, message: 'Villager was killed'
 [23Apr2025 03:54:03.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina was processed by Crushing Wheels
+[23Apr2025 04:05:14.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Argenis
+[23Apr2025 04:09:35.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Rempalago181) moved wrongly! 0.8631656328923043
+[23Apr2025 04:09:35.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Rempalago181) moved wrongly! 0.5448409603058622
+[23Apr2025 04:09:35.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Rempalago181) moved wrongly! 0.3539325885576545
+[23Apr2025 04:09:44.319] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kierbyuwu lost connection: Timed out
+[23Apr2025 04:09:44.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kierbyuwu left the game
+[23Apr2025 04:10:30.423] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kierbyuwu[/127.160.147.109:33067] logged in with entity id 92458 at (-182.79123531677396, 62.07326432466506, 208.13732200948516)
+[23Apr2025 04:10:30.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kierbyuwu joined the game
+[23Apr2025 04:11:03.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Rempalago181) moved wrongly! 0.387950230313848
+[23Apr2025 04:11:03.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Rempalago181) moved wrongly! 0.5596301408430406
+[23Apr2025 04:11:09.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 1.035736372492515
+[23Apr2025 04:11:09.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 0.6882301296720073
+[23Apr2025 04:11:09.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 1.0369630980494264
+[23Apr2025 04:11:09.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 1.0380671510214015
+[23Apr2025 04:11:09.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 0.6853657334601806
+[23Apr2025 04:11:09.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 0.34196205692612125
+[23Apr2025 04:11:12.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 0.29064633739031365
+[23Apr2025 04:11:12.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 0.39864751609806603
+[23Apr2025 04:11:12.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 0.3561365435785433
+[23Apr2025 04:11:15.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 0.31241464376833505
+[23Apr2025 04:11:15.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 0.39411639792334086
+[23Apr2025 04:11:15.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 0.4782192887571739
+[23Apr2025 04:11:17.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 0.3039947046922862
+[23Apr2025 04:11:17.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 0.6955326546867013
+[23Apr2025 04:11:17.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 1.0100756219918026
+[23Apr2025 04:11:17.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 1.3323190791342654
+[23Apr2025 04:11:17.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 0.5767868281888013
+[23Apr2025 04:11:18.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 0.9100230139653149
+[23Apr2025 04:11:18.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 1.2910842796204633
+[23Apr2025 04:11:18.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 1.6467612849125999
+[23Apr2025 04:11:18.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 0.29922138364241846
+[23Apr2025 04:11:51.319] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Timed out
+[23Apr2025 04:11:51.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[23Apr2025 04:12:06.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 0.30104369046470225
+[23Apr2025 04:12:06.318] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 0.3589736118456912
+[23Apr2025 04:14:06.367] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2ba7f109[id=<null>,name=Lechina,properties={},legacy=false] (/127.118.90.255:33411) lost connection: Disconnected
+[23Apr2025 04:14:27.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 0.590814737738917
+[23Apr2025 04:14:27.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 0.7021511406632328
+[23Apr2025 04:14:27.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 0.8140253357285729
+[23Apr2025 04:14:27.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 0.9262688420197165
+[23Apr2025 04:14:27.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 1.0382307577232552
+[23Apr2025 04:14:27.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 1.1489091358072088
+[23Apr2025 04:14:27.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 1.2570702298205703
+[23Apr2025 04:14:29.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 0.25867822026339127
+[23Apr2025 04:14:29.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 0.29169050420293274
+[23Apr2025 04:14:32.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 0.3468319679029719
+[23Apr2025 04:14:32.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 0.5315482036423873
+[23Apr2025 04:14:32.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 0.4382657210484382
+[23Apr2025 04:14:33.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 0.32992782020067324
+[23Apr2025 04:14:33.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 0.644075195714521
+[23Apr2025 04:14:33.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 0.7703846451383498
+[23Apr2025 04:14:33.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 0.9776158207476442
+[23Apr2025 04:14:33.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 0.3884602546060236
+[23Apr2025 04:14:33.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 0.7598288558728967
+[23Apr2025 04:14:33.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 1.0513781791562309
+[23Apr2025 04:14:33.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 1.2867833221536102
+[23Apr2025 04:14:34.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 0.4432851265504283
+[23Apr2025 04:14:34.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 0.6708885805979463
+[23Apr2025 04:14:34.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 0.8778044465121582
+[23Apr2025 04:14:34.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 0.8468992065884606
+[23Apr2025 04:14:49.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Kierbyuwu) moved wrongly! 0.37810224802387893
+[23Apr2025 04:14:49.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Kierbyuwu) moved wrongly! 0.517263316062099
+[23Apr2025 04:14:49.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Kierbyuwu) moved wrongly! 0.6568468101666554
+[23Apr2025 04:14:49.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Kierbyuwu) moved wrongly! 0.7967531899620894
+[23Apr2025 04:14:49.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Kierbyuwu) moved wrongly! 0.9362455747777858
+[23Apr2025 04:14:58.469] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@72c51a45[id=<null>,name=Lechina,properties={},legacy=false] (/127.118.90.255:43071) lost connection: Timed out
+[23Apr2025 04:15:10.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kierbyuwu lost connection: Timed out
+[23Apr2025 04:15:10.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kierbyuwu left the game
+[23Apr2025 04:15:13.076] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.118.90.255:41801] logged in with entity id 94042 at (-46.60185252779023, 62.073264324665075, 498.8226892343463)
+[23Apr2025 04:15:13.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[23Apr2025 04:16:10.534] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kierbyuwu[/127.160.147.109:44557] logged in with entity id 94976 at (-18.64879618682034, 62.073264324665075, 505.7485088116708)
+[23Apr2025 04:16:10.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kierbyuwu joined the game
+[23Apr2025 04:16:55.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kierbyuwu lost connection: Timed out
+[23Apr2025 04:16:55.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kierbyuwu left the game
+[23Apr2025 04:17:33.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> 784, no importa, 80
+[23Apr2025 04:17:58.085] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kierbyuwu[/127.160.147.109:35375] logged in with entity id 96402 at (65.3125, 62.073264324665075, 506.80054299188083)
+[23Apr2025 04:17:58.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kierbyuwu joined the game
+[23Apr2025 04:18:28.177] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kierbyuwu lost connection: Timed out
+[23Apr2025 04:18:28.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kierbyuwu left the game
+[23Apr2025 04:18:56.987] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CalbiBaa[/127.198.28.85:58617] logged in with entity id 97592 at (-738.6234898692512, 61.0625, 301.02583770237294)
+[23Apr2025 04:18:56.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa joined the game
+[23Apr2025 04:19:12.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> alv
+[23Apr2025 04:19:17.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> papu andamos de ruta
+[23Apr2025 04:20:00.688] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kierbyuwu[/127.160.147.109:32803] logged in with entity id 99337 at (65.3125, 63.085764312744146, 506.80054299188083)
+[23Apr2025 04:20:00.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kierbyuwu joined the game
+[23Apr2025 04:24:14.040] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[23Apr2025 04:24:14.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[23Apr2025 04:24:50.098] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:46517] logged in with entity id 104185 at (434.29144369950706, 64.0, 553.4204679221072)
+[23Apr2025 04:24:50.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[23Apr2025 04:25:00.036] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lechina) moved wrongly! 0.4023217688652494
+[23Apr2025 04:25:00.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lechina) moved wrongly! 0.5574791239214392
+[23Apr2025 04:25:00.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lechina) moved wrongly! 0.7081711736245779
+[23Apr2025 04:25:01.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lechina) moved wrongly! 0.3615165671228624
+[23Apr2025 04:25:01.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lechina) moved wrongly! 0.4302917871165164
+[23Apr2025 04:25:01.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lechina) moved wrongly! 0.6091124012212958
+[23Apr2025 04:25:01.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lechina) moved wrongly! 0.7915867578726647
+[23Apr2025 04:25:01.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lechina) moved wrongly! 0.9761833849090635
+[23Apr2025 04:25:08.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Kierbyuwu) moved wrongly! 0.44571931564632905
+[23Apr2025 04:25:08.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Kierbyuwu) moved wrongly! 0.6428697775293699
+[23Apr2025 04:25:08.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Kierbyuwu) moved wrongly! 0.812604994274011
+[23Apr2025 04:25:08.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Kierbyuwu) moved wrongly! 0.509168127930252
+[23Apr2025 04:25:28.589] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[23Apr2025 04:25:28.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[23Apr2025 04:25:36.540] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:47369] logged in with entity id 104787 at (434.29144369950706, 64.0, 553.4204679221072)
+[23Apr2025 04:25:36.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[23Apr2025 04:25:45.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> culo
+[23Apr2025 04:25:46.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> culo
+[23Apr2025 04:25:50.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> cu cu lolo
+[23Apr2025 04:28:01.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa liquified to Fanta juice
+[23Apr2025 04:30:32.582] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MawMaw123[/127.244.33.86:36869] logged in with entity id 109134 at (-678.2763090932584, 79.0, 344.00124871603316)
+[23Apr2025 04:30:32.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 joined the game
+[23Apr2025 04:31:01.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [The Cutest Predator]
+[23Apr2025 04:31:15.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [The Cutest Predator]
+[23Apr2025 04:31:32.691] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MawMaw123 lost connection: Timed out
+[23Apr2025 04:31:32.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 left the game

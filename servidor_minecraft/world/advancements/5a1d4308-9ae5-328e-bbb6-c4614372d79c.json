@@ -38,6 +38,7 @@
       "minecraft:bamboo_jungle": "2025-04-19 04:21:23 +0000",
       "minecraft:beach": "2025-04-18 02:10:36 +0000",
       "minecraft:dark_forest": "2025-04-18 19:41:50 +0000",
+      "minecraft:stony_peaks": "2025-04-23 04:23:02 +0000",
       "minecraft:sparse_jungle": "2025-04-19 04:19:13 +0000",
       "minecraft:river": "2025-04-18 01:47:49 +0000",
       "minecraft:stony_shore": "2025-04-19 04:39:44 +0000",
@@ -46,6 +47,7 @@
       "minecraft:ocean": "2025-04-19 04:40:23 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-19 04:19:32 +0000",
       "minecraft:meadow": "2025-04-19 04:50:43 +0000",
+      "minecraft:savanna": "2025-04-23 04:19:32 +0000",
       "minecraft:plains": "2025-04-12 03:16:39 +0000"
     },
     "done": false
@@ -5226,6 +5228,54 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-04-23 04:21:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-04-23 04:21:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-04-23 04:21:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-04-23 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-04-23 04:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-04-23 04:17:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-04-23 04:17:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-04-23 04:21:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
     "criteria": {
       "has_the_recipe": "2025-04-23 03:53:17 +0000"
@@ -5235,6 +5285,30 @@
   "create:recipes/misc/crafting/materials/experience_block": {
     "criteria": {
       "has_item": "2025-04-23 03:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-04-23 04:21:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-04-23 04:17:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-04-23 04:21:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-04-23 04:17:33 +0000"
     },
     "done": true
   },
