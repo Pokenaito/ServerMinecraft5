@@ -2622,3 +2622,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Apr2025 03:30:40.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
 [23Apr2025 03:30:51.830] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:48483] logged in with entity id 77956 at (-766.8569640108173, 63.0, 343.98576704910334)
 [23Apr2025 03:30:51.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[23Apr2025 03:31:18.211] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/78068, l='ServerLevel[world]', x=-751.83, y=-256.00, z=300.39] died, message: 'Villager was killed'
+[23Apr2025 03:31:25.974] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[23Apr2025 03:31:25.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[23Apr2025 03:31:35.584] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:53605] logged in with entity id 78278 at (-766.8569640108173, 63.0, 343.98576704910334)
+[23Apr2025 03:31:35.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[23Apr2025 03:31:54.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> LET ME IN
+[23Apr2025 03:31:57.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> A
+[23Apr2025 03:33:20.775] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[23Apr2025 03:33:20.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[23Apr2025 03:34:24.289] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:45855] logged in with entity id 80063 at (-765.2374170057891, 69.0, 337.7123429594578)
+[23Apr2025 03:34:24.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[23Apr2025 03:34:38.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> Culo grueso
+[23Apr2025 03:34:43.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> culo
+[23Apr2025 03:34:45.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> culo
+[23Apr2025 03:34:48.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> culo
+[23Apr2025 03:34:56.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> culo
+[23Apr2025 03:34:58.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[23Apr2025 03:35:21.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[23Apr2025 03:35:34.725] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Disconnected
+[23Apr2025 03:35:34.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
