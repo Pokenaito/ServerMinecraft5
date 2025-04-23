@@ -15696,3 +15696,34 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Apr2025 04:57:28.845] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker succeeded with 763 radius, 5 samples
 [23Apr2025 04:59:35.327] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Apr2025 04:59:35.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 05:02:53.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lechina) moved wrongly! 0.8477943516228379
+[23Apr2025 05:02:53.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lechina) moved wrongly! 0.8452329331922783
+[23Apr2025 05:02:53.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lechina) moved wrongly! 0.4927672970473225
+[23Apr2025 05:03:49.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Quite the Renovation]
+[23Apr2025 05:03:50.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Kierbyuwu) moved wrongly! 0.33100857187230304
+[23Apr2025 05:03:50.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Kierbyuwu) moved wrongly! 0.5613232962380152
+[23Apr2025 05:03:50.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Kierbyuwu) moved wrongly! 0.7483308850244157
+[23Apr2025 05:04:35.325] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 05:04:35.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 05:05:39.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -2.436320576263938,1.130906499714527,9.783414865269151
+[23Apr2025 05:05:44.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> A
+[23Apr2025 05:08:28.512] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/146066, l='ServerLevel[world]', x=-765.60, y=-256.00, z=338.87] died, message: 'Villager was killed'
+[23Apr2025 05:09:18.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> -764,63,345
+[23Apr2025 05:09:35.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 05:09:35.383] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 05:09:39.211] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/148210, l='ServerLevel[world]', x=-765.25, y=-256.00, z=350.01] died, message: 'Villager was killed'
+[23Apr2025 05:10:53.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kierbyuwu was doomed to fall
+[23Apr2025 05:11:50.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> T
+[23Apr2025 05:11:59.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kierbyuwu> maldittaseaaaa
+[23Apr2025 05:12:02.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> xd
+[23Apr2025 05:12:08.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kierbyuwu> me cogieron t-t
+[23Apr2025 05:14:20.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Rempalago181) moved wrongly! 0.26010823631565927
+[23Apr2025 05:14:20.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Rempalago181) moved wrongly! 0.26010823631565927
+[23Apr2025 05:14:20.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Rempalago181) moved wrongly! 0.28706021548237004
+[23Apr2025 05:14:20.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Rempalago181) moved wrongly! 0.28706021548237004
+[23Apr2025 05:14:35.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 05:14:35.344] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 05:18:25.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has reached the goal [Miphril]
+[23Apr2025 05:18:58.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 was killed by magic
+[23Apr2025 05:19:35.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 05:19:35.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

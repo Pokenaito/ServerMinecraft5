@@ -345,6 +345,7 @@
       "cooked_porkchop": "2025-04-11 03:20:32 +0000",
       "cooked_mutton": "2025-04-16 18:00:46 +0000",
       "cooked_beef": "2025-04-11 02:54:01 +0000",
+      "baked_potato": "2025-04-23 05:18:14 +0000",
       "apple": "2025-04-11 02:48:08 +0000",
       "bread": "2025-04-11 03:43:36 +0000",
       "cooked_chicken": "2025-04-11 03:20:09 +0000",
@@ -3500,6 +3501,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-04-23 05:16:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-23 04:48:14 +0000"
@@ -3659,6 +3666,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-04-23 04:48:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-04-23 05:16:53 +0000"
     },
     "done": true
   },
