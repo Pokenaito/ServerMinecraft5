@@ -2274,3 +2274,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Apr2025 00:55:33.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
 [23Apr2025 00:55:52.328] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.16.25.131:57641] logged in with entity id 3731 at (-606.0230897278367, 64.0, 413.6285693117488)
 [23Apr2025 00:55:52.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[23Apr2025 01:23:17.418] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11022, l='ServerLevel[world]', x=-765.07, y=-256.00, z=350.08] died, message: 'Villager was killed'
+[23Apr2025 01:24:07.891] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:56879] logged in with entity id 11238 at (-662.2293674033598, 63.0, 410.6792347744395)
+[23Apr2025 01:24:07.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[23Apr2025 01:24:31.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Que fue Papi
+[23Apr2025 01:24:39.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Aqui haciendo un conejo
+[23Apr2025 01:24:48.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> XDDDDDDDDDDDDDD
+[23Apr2025 01:24:58.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Diablo
+[23Apr2025 01:25:08.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Muelto
