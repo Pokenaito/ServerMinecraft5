@@ -61,8 +61,12 @@
       "minecraft:sparse_jungle": "2025-04-23 04:28:32 +0000",
       "minecraft:river": "2025-04-19 02:44:00 +0000",
       "minecraft:stony_shore": "2025-04-19 02:43:02 +0000",
+      "minecraft:dripstone_caves": "2025-04-23 04:30:53 +0000",
       "minecraft:forest": "2025-04-19 02:39:23 +0000",
+      "minecraft:lush_caves": "2025-04-23 04:31:38 +0000",
+      "minecraft:ocean": "2025-04-23 04:57:34 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-23 04:10:13 +0000",
+      "minecraft:deep_dark": "2025-04-23 04:38:12 +0000",
       "minecraft:savanna": "2025-04-23 04:25:50 +0000",
       "minecraft:plains": "2025-04-19 02:43:28 +0000"
     },
@@ -3740,6 +3744,12 @@
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-23 04:08:05 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/sulfur_chunk": {
+    "criteria": {
+      "sulfur_chunk": "2025-04-23 04:31:25 +0000"
     },
     "done": true
   },

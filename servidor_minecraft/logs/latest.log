@@ -2775,3 +2775,38 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Apr2025 04:31:15.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [The Cutest Predator]
 [23Apr2025 04:31:32.691] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MawMaw123 lost connection: Timed out
 [23Apr2025 04:31:32.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 left the game
+[23Apr2025 04:31:50.211] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/110854, l='ServerLevel[world]', x=-764.64, y=-256.00, z=338.86] died, message: 'Villager was killed'
+[23Apr2025 04:32:00.081] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MawMaw123[/127.244.33.86:33977] logged in with entity id 110960 at (-678.2763090932584, 79.0, 344.00124871603316)
+[23Apr2025 04:32:00.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 joined the game
+[23Apr2025 04:33:00.196] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MawMaw123 lost connection: Timed out
+[23Apr2025 04:33:00.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 left the game
+[23Apr2025 04:33:10.396] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MawMaw123[/127.244.33.86:36559] logged in with entity id 112455 at (-678.2763090932584, 79.0, 344.00124871603316)
+[23Apr2025 04:33:10.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 joined the game
+[23Apr2025 04:33:24.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MawMaw123> hhh
+[23Apr2025 04:34:44.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> A
+[23Apr2025 04:34:47.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> sua
+[23Apr2025 04:36:54.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa has made the advancement [Cobweb Entanglement]
+[23Apr2025 04:39:06.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[23Apr2025 04:39:26.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 has made the advancement [Acquire Hardware]
+[23Apr2025 04:39:26.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Sneak 100]
+[23Apr2025 04:40:43.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kierbyuwu has made the advancement [Isn't It Iron Pick]
+[23Apr2025 04:41:03.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has completed the challenge [It Spreads]
+[23Apr2025 04:43:28.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [Sneak 100]
+[23Apr2025 04:44:20.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 has made the advancement [Suit Up]
+[23Apr2025 04:45:18.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kierbyuwu has made the advancement [The Cutest Predator]
+[23Apr2025 04:45:53.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa was slain by Cave Spider
+[23Apr2025 04:48:28.211] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/124230, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.30] died, message: 'Villager was killed'
+[23Apr2025 04:50:33.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 has made the advancement [Monster Hunter]
+[23Apr2025 04:55:59.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Night Night]
+[23Apr2025 04:57:15.697] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23Apr2025 04:57:15.738] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker succeeded with 763 radius, 5 samples
+[23Apr2025 04:57:18.234] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23Apr2025 04:57:18.290] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker succeeded with 2479 radius, 23 samples
+[23Apr2025 04:57:20.400] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23Apr2025 04:57:20.442] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker succeeded with 6411 radius, 139 samples
+[23Apr2025 04:57:22.995] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23Apr2025 04:57:23.037] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker succeeded with 2976 radius, 25 samples
+[23Apr2025 04:57:25.788] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23Apr2025 04:57:25.842] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker succeeded with 3831 radius, 59 samples
+[23Apr2025 04:57:28.785] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23Apr2025 04:57:28.845] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 24e7aab0: RandomSpreadSearchWorker succeeded with 763 radius, 5 samples
