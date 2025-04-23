@@ -391,6 +391,12 @@
     },
     "done": true
   },
+  "scguns:main/iron/auvtomag": {
+    "criteria": {
+      "auvtomag": "2025-04-23 05:23:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/cyan_table_cloth": {
     "criteria": {
       "has_wool": "2025-04-23 04:43:12 +0000"

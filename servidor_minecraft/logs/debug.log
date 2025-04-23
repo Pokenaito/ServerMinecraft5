@@ -15727,3 +15727,59 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Apr2025 05:18:58.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 was killed by magic
 [23Apr2025 05:19:35.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Apr2025 05:19:35.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 05:23:25.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[23Apr2025 05:24:35.315] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 05:24:35.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 05:25:59.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito was decimated by Zombie62002
+[23Apr2025 05:26:58.375] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Disconnected
+[23Apr2025 05:26:58.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[23Apr2025 05:28:19.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> -704,63,364
+[23Apr2025 05:28:30.210] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/162615, l='ServerLevel[world]', x=-734.58, y=-256.00, z=301.45] died, message: 'Villager was killed'
+[23Apr2025 05:29:20.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> A
+[23Apr2025 05:29:35.300] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 05:29:35.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 05:29:42.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kierbyuwu> -713, 96, -193
+[23Apr2025 05:31:22.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! -6.728595865406987,0.0,-7.930065998717112
+[23Apr2025 05:31:22.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! -6.987388014076487,0.0,-8.235068537129308
+[23Apr2025 05:31:22.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! -7.246180162745986,0.0,-8.540071075541505
+[23Apr2025 05:31:22.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! -7.504972311415486,0.0,-8.845073613953701
+[23Apr2025 05:31:22.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! -7.763764460084985,0.0,-9.150076152365898
+[23Apr2025 05:31:22.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! -8.022556608754485,0.0,-9.455078690778095
+[23Apr2025 05:31:26.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 25.102838420941453,0.0,29.58524622598307
+[23Apr2025 05:31:26.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 25.102838420941453,0.0,29.58524622598307
+[23Apr2025 05:31:26.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 25.102838420941453,0.0,29.58524622598307
+[23Apr2025 05:31:26.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 25.102838420941453,0.0,29.58524622598307
+[23Apr2025 05:31:26.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 25.102838420941453,0.0,29.58524622598307
+[23Apr2025 05:31:26.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 25.102838420941453,0.0,29.58524622598307
+[23Apr2025 05:31:26.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 24.844046272271953,0.0,29.280243687570874
+[23Apr2025 05:31:26.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 24.844046272271953,0.0,29.280243687570874
+[23Apr2025 05:31:26.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 24.585254123602454,0.0,28.975241149158677
+[23Apr2025 05:31:26.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 24.326461974932954,0.0,28.67023861074648
+[23Apr2025 05:31:26.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 24.067669826263455,0.0,28.365236072334284
+[23Apr2025 05:31:26.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 23.808877677593955,0.0,28.060233533922087
+[23Apr2025 05:31:26.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 23.550085528924456,0.0,27.75523099550989
+[23Apr2025 05:31:26.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 23.291293380254956,0.0,27.450228457097694
+[23Apr2025 05:31:26.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 23.032501231585456,0.0,27.145225918685497
+[23Apr2025 05:31:26.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 22.773709082915957,0.0,26.8402233802733
+[23Apr2025 05:31:26.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 22.514916934246457,0.0,26.535220841861104
+[23Apr2025 05:31:26.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 22.256124785576958,0.0,26.230218303448908
+[23Apr2025 05:31:26.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 21.99733263690746,0.0,25.92521576503671
+[23Apr2025 05:31:26.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 21.73854048823796,0.0,25.620213226624514
+[23Apr2025 05:31:26.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 21.47974833956846,0.0,25.315210688212318
+[23Apr2025 05:31:26.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 21.22095619089896,0.0,25.01020814980012
+[23Apr2025 05:31:26.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 20.96216404222946,0.0,24.705205611387925
+[23Apr2025 05:31:27.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 20.70337189355996,0.0,24.400203072975728
+[23Apr2025 05:31:27.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 20.44457974489046,0.0,24.09520053456353
+[23Apr2025 05:31:27.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 20.185787596220962,0.0,23.790197996151335
+[23Apr2025 05:31:27.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 19.926995447551462,0.0,23.485195457739138
+[23Apr2025 05:31:27.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 19.668203298881963,0.0,23.18019291932694
+[23Apr2025 05:31:27.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 19.409411150212463,0.0,22.875190380914745
+[23Apr2025 05:31:27.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 19.150619001542964,0.0,22.57018784250255
+[23Apr2025 05:31:27.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 18.891826852873464,0.0,22.265185304090352
+[23Apr2025 05:31:27.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 18.633034704203965,0.0,21.960182765678155
+[23Apr2025 05:31:27.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 18.374242555534465,0.0,21.65518022726596
+[23Apr2025 05:31:27.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 18.115450406864966,0.0,21.350177688853762
+[23Apr2025 05:31:27.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 17.856658258195466,0.0,21.045175150441565
+[23Apr2025 05:31:27.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 17.597866109525967,0.0,20.74017261202937
+[23Apr2025 05:31:27.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 17.339073960856467,0.0,20.435170073617172
+[23Apr2025 05:31:29.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> A

@@ -7605,6 +7605,12 @@
     },
     "done": true
   },
+  "scguns:main/peal": {
+    "criteria": {
+      "peal": "2025-04-23 05:20:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-04-23 03:03:57 +0000"
