@@ -2885,3 +2885,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Apr2025 05:31:27.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 17.597866109525967,0.0,20.74017261202937
 [23Apr2025 05:31:27.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved too quickly! 17.339073960856467,0.0,20.435170073617172
 [23Apr2025 05:31:29.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> A
+[23Apr2025 05:33:42.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito was slain by The Moonflower
+[23Apr2025 05:34:56.911] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/166075, l='ServerLevel[world]', x=-765.07, y=-256.00, z=350.08] died, message: 'Villager was killed'
+[23Apr2025 05:36:07.711] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/166870, l='ServerLevel[world]', x=-765.07, y=-256.00, z=350.08] died, message: 'Villager was killed'
+[23Apr2025 05:36:37.229] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 lost connection: Disconnected
+[23Apr2025 05:36:37.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 left the game
+[23Apr2025 05:37:19.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito died
+[23Apr2025 05:38:13.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 has completed the challenge [My Bald Satanic Goth Girl Friend]
+[23Apr2025 05:38:13.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 has made the advancement [First big catch of the month!]
+[23Apr2025 05:38:27.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 has made the advancement [Stone Age]
+[23Apr2025 05:39:42.143] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.53.105.40:38129] logged in with entity id 169567 at (-703.9835486017358, 64.0, 328.02314026989524)
+[23Apr2025 05:39:42.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[23Apr2025 05:41:38.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 was eliminated by Zombie62002
