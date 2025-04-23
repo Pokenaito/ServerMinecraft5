@@ -6134,6 +6134,7 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
+      "pasta_with_meatballs": "2025-04-23 03:41:19 +0000",
       "beef_stew": "2025-04-18 22:53:14 +0000"
     },
     "done": false
@@ -7356,6 +7357,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-23 03:45:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-23 03:45:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-23 03:45:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-04-23 02:44:24 +0000"
@@ -7422,6 +7441,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-23 03:45:28 +0000"
+    },
+    "done": true
+  },
   "scguns:main/copper/makeshift_rifle": {
     "criteria": {
       "makeshift_rifle": "2025-04-23 01:56:56 +0000"
@@ -7431,6 +7456,18 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-04-23 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-23 03:45:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-23 03:45:28 +0000"
     },
     "done": true
   },
@@ -7446,6 +7483,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-23 03:45:28 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/harvest_ropelogged_tomato": {
     "criteria": {
       "harvest_ropelogged_tomato": "2025-04-23 01:33:19 +0000"
@@ -7458,9 +7501,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-23 03:45:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-23 03:45:28 +0000"
+    },
+    "done": true
+  },
   "scguns:main/copper/scrapper": {
     "criteria": {
       "scrapper": "2025-04-23 02:30:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-23 03:45:28 +0000"
     },
     "done": true
   },
@@ -7476,6 +7537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-23 03:45:28 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/bread_from_smoking": {
     "criteria": {
       "has_dough": "2025-04-23 03:30:19 +0000"
@@ -7485,6 +7552,18 @@
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-04-23 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-23 03:45:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-23 03:45:28 +0000"
     },
     "done": true
   },
@@ -7503,6 +7582,18 @@
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-04-23 03:03:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-04-23 03:41:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-23 03:45:28 +0000"
     },
     "done": true
   },
@@ -7527,6 +7618,12 @@
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2025-04-23 02:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-23 03:45:28 +0000"
     },
     "done": true
   },

@@ -2642,3 +2642,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Apr2025 03:35:21.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
 [23Apr2025 03:35:34.725] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Disconnected
 [23Apr2025 03:35:34.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[23Apr2025 03:45:00.829] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.16.25.131:49021] logged in with entity id 84146 at (-606.4201229123003, 64.0, 416.29172416339264)
+[23Apr2025 03:45:00.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[23Apr2025 03:49:48.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> zzz
+[23Apr2025 03:49:50.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> zzz
+[23Apr2025 03:49:51.211] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/85477, l='ServerLevel[world]', x=-734.58, y=-256.00, z=301.45] died, message: 'Villager was killed'
+[23Apr2025 03:49:51.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kierbyuwu> CULO CON CACA
+[23Apr2025 03:49:51.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> zz
+[23Apr2025 03:49:52.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> zz
+[23Apr2025 03:49:52.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> zzz
+[23Apr2025 03:49:53.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> zzzz
+[23Apr2025 03:49:56.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> duerman pue
+[23Apr2025 03:49:58.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kierbyuwu> CULO CON CACA
+[23Apr2025 03:50:04.210] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/85518, l='ServerLevel[world]', x=-751.83, y=-256.00, z=300.39] died, message: 'Villager was killed'
+[23Apr2025 03:50:13.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kierbyuwu> Culo con caca culo con caca culo con caca CULO CON CACA
+[23Apr2025 03:50:40.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kierbyuwu> chipi chipi chapa chapa dubi dubi daba daba
+[23Apr2025 03:50:58.160] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/85680, l='ServerLevel[world]', x=-655.47, y=-256.00, z=407.23] died, message: 'Villager was killed'
+[23Apr2025 03:53:48.511] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/86766, l='ServerLevel[world]', x=-765.40, y=-256.00, z=338.90] died, message: 'Villager was killed'
+[23Apr2025 03:54:03.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina was processed by Crushing Wheels

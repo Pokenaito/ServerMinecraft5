@@ -1020,6 +1020,7 @@
     "criteria": {
       "porkchop": "2025-04-21 16:13:06 +0000",
       "potato": "2025-04-21 15:41:00 +0000",
+      "cooked_salmon": "2025-04-23 03:59:25 +0000",
       "carrot": "2025-04-21 16:15:14 +0000"
     },
     "done": false
@@ -1846,6 +1847,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-04-23 03:46:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-04-23 03:21:45 +0000"
@@ -1861,6 +1868,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-04-23 03:21:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-04-23 03:55:44 +0000"
     },
     "done": true
   },
@@ -1897,6 +1910,12 @@
   "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-04-23 03:21:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-23 03:55:44 +0000"
     },
     "done": true
   },

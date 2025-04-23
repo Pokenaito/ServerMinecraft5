@@ -3619,15 +3619,27 @@
     },
     "done": true
   },
+  "scguns:main/iron/auvtomag": {
+    "criteria": {
+      "auvtomag": "2025-04-23 02:48:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_carpet": {
     "criteria": {
       "has_green_wool": "2025-04-23 03:19:04 +0000"
     },
     "done": true
   },
-  "scguns:main/iron/auvtomag": {
+  "minecraft:recipes/decorations/green_bed": {
     "criteria": {
-      "auvtomag": "2025-04-23 02:48:15 +0000"
+      "has_green_wool": "2025-04-23 03:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2025-04-23 03:19:04 +0000"
     },
     "done": true
   },
@@ -3643,12 +3655,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/green_bed": {
-    "criteria": {
-      "has_green_wool": "2025-04-23 03:19:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_green_carpet": {
     "criteria": {
       "has_needed_dye": "2025-04-23 03:19:46 +0000"
@@ -3661,12 +3667,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/green_banner": {
-    "criteria": {
-      "has_green_wool": "2025-04-23 03:19:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_green_bed": {
     "criteria": {
       "has_needed_dye": "2025-04-23 03:19:46 +0000"
@@ -3676,6 +3676,12 @@
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_green_dye": "2025-04-23 03:19:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-23 03:56:43 +0000"
     },
     "done": true
   },
