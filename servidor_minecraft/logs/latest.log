@@ -1,78 +1,76 @@
-[24Apr2025 18:21:42.602] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[24Apr2025 18:21:42.608] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
-[24Apr2025 18:21:43.775] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[24Apr2025 18:21:43.849] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ServerMinecraft5/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[24Apr2025 18:21:44.206] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerMinecraft5/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[24Apr2025 18:21:44.207] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerMinecraft5/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[24Apr2025 18:21:44.208] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerMinecraft5/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[24Apr2025 18:21:44.209] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerMinecraft5/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[24Apr2025 18:21:44.565] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
-[24Apr2025 18:21:47.136] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[24Apr2025 18:21:47.356] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[24Apr2025 18:21:48.012] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/vanilla.xml
-[24Apr2025 18:21:48.020] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/gregtechmodernce.xml
-[24Apr2025 18:21:48.027] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/assortedstorage.xml
-[24Apr2025 18:21:48.030] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/refinedstorage.xml
-[24Apr2025 18:21:48.032] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ic2.xml
-[24Apr2025 18:21:48.035] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/computercraft.xml
-[24Apr2025 18:21:48.038] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/mekanism.xml
-[24Apr2025 18:21:48.040] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ironfurnaces.xml
-[24Apr2025 18:21:48.274] [main/INFO] [Canary/]: Loaded configuration file for Canary: 116 options available, 0 override(s) found
-[24Apr2025 18:21:50.720] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
-[24Apr2025 18:21:50.720] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
-[24Apr2025 18:21:50.895] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[24Apr2025 18:21:59.537] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[24Apr2025 18:21:59.570] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[24Apr2025 18:22:00.043] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[24Apr2025 18:22:00.043] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[24Apr2025 18:22:00.394] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.4 initializing! Commit hash: 254bb816aee1c056c74b2ad4beb88222a499da78
-[24Apr2025 18:22:01.377] [modloading-worker-0/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[24Apr2025 18:22:01.380] [modloading-worker-0/INFO] [Chunk Pregenerator/]: Loading Plugin: [name=JourneyMap]
-[24Apr2025 18:22:04.626] [main/INFO] [Moonlight/]: Initialized block sets in 13ms
-[24Apr2025 18:22:05.166] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.MechanicalPressRecipe$Serializer@63c3c8d4 has been registered twice for the same name scguns:mechanical_pressing.
-[24Apr2025 18:22:05.166] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.PoweredMechanicalPressRecipe$Serializer@6dfd07c8 has been registered twice for the same name scguns:powered_mechanical_pressing.
-[24Apr2025 18:22:05.166] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.MaceratorRecipe$Serializer@1070eb05 has been registered twice for the same name scguns:macerating.
-[24Apr2025 18:22:05.166] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.PoweredMaceratorRecipe$Serializer@2c6c4556 has been registered twice for the same name scguns:powered_macerating.
-[24Apr2025 18:22:05.167] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.GunBenchRecipe$Serializer@135c5345 has been registered twice for the same name scguns:gun_bench.
-[24Apr2025 18:22:05.167] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.LightningBatteryRecipe$Serializer@3dd95fcb has been registered twice for the same name scguns:lightning_battery.
-[24Apr2025 18:22:05.167] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.MechanicalPressRecipe$Serializer@63c3c8d4 has been registered twice for the same name scguns:mechanical_pressing.
-[24Apr2025 18:22:05.167] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.PoweredMechanicalPressRecipe$Serializer@6dfd07c8 has been registered twice for the same name scguns:powered_mechanical_pressing.
-[24Apr2025 18:22:05.167] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.MaceratorRecipe$Serializer@1070eb05 has been registered twice for the same name scguns:macerating.
-[24Apr2025 18:22:05.168] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.PoweredMaceratorRecipe$Serializer@2c6c4556 has been registered twice for the same name scguns:powered_macerating.
-[24Apr2025 18:22:05.168] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.GunBenchRecipe$Serializer@135c5345 has been registered twice for the same name scguns:gun_bench.
-[24Apr2025 18:22:05.168] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.LightningBatteryRecipe$Serializer@3dd95fcb has been registered twice for the same name scguns:lightning_battery.
-[24Apr2025 18:22:05.525] [main/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[24Apr2025 18:22:05.527] [Thread-1/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[24Apr2025 18:22:05.529] [Thread-1/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[24Apr2025 18:22:05.596] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
-[24Apr2025 18:22:05.759] [main/INFO] [Moonlight/]: Initialized color sets in 45ms
-[24Apr2025 18:22:05.962] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[24Apr2025 18:22:05.980] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:aiming for minecraft:player
-[24Apr2025 18:22:05.981] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:reloading for minecraft:player
-[24Apr2025 18:22:05.981] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:shooting for minecraft:player
-[24Apr2025 18:22:05.981] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:burstcount for minecraft:player
-[24Apr2025 18:22:05.981] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:onburstcooldown for minecraft:player
-[24Apr2025 18:22:05.982] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:melee for minecraft:player
-[24Apr2025 18:22:06.014] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[24Apr2025 18:22:06.016] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[24Apr2025 18:22:06.018] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[24Apr2025 18:22:06.018] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[24Apr2025 18:22:06.550] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[24Apr2025 18:22:06.550] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
-[24Apr2025 18:22:06.609] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.12.17 Target: null
-[24Apr2025 18:22:06.610] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
-[24Apr2025 18:22:07.096] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: OUTDATED Current: 1.20.1-1.0.15 Target: 1.20.1-1.0.23
-[24Apr2025 18:22:07.097] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
-[24Apr2025 18:22:07.196] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: UP_TO_DATE Current: 0.3.3 Target: null
-[24Apr2025 18:22:07.197] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[24Apr2025 18:22:08.317] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
-[24Apr2025 18:22:08.650] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[24Apr2025 18:22:10.759] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ServerMinecraft5/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23189!/assets/.mcassetsroot' uses unexpected schema
-[24Apr2025 18:22:10.759] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ServerMinecraft5/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23189!/data/.mcassetsroot' uses unexpected schema
-[24Apr2025 18:22:10.858] [main/INFO] [com.simibubi.create.Create/]: Created 165 recipes which will be injected into the game
-[24Apr2025 18:22:10.868] [main/INFO] [com.simibubi.create.Create/]: Created 0 tags which will be injected into the game
-[24Apr2025 18:22:11.395] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
-[24Apr2025 18:22:13.760] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/anthralite_ingot_from_smelting_crushed_raw_anthralite
+[24Apr2025 22:51:50.871] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[24Apr2025 22:51:50.875] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
+[24Apr2025 22:51:52.237] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[24Apr2025 22:51:52.327] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ServerMinecraft5/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[24Apr2025 22:51:52.736] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerMinecraft5/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[24Apr2025 22:51:52.738] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerMinecraft5/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24Apr2025 22:51:52.740] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerMinecraft5/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24Apr2025 22:51:52.741] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerMinecraft5/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24Apr2025 22:51:53.116] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
+[24Apr2025 22:51:56.075] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[24Apr2025 22:51:56.283] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[24Apr2025 22:51:56.920] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/vanilla.xml
+[24Apr2025 22:51:56.923] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/gregtechmodernce.xml
+[24Apr2025 22:51:56.925] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/assortedstorage.xml
+[24Apr2025 22:51:56.927] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/refinedstorage.xml
+[24Apr2025 22:51:56.928] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ic2.xml
+[24Apr2025 22:51:56.929] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/computercraft.xml
+[24Apr2025 22:51:56.931] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/mekanism.xml
+[24Apr2025 22:51:56.933] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ironfurnaces.xml
+[24Apr2025 22:51:57.041] [main/INFO] [Canary/]: Loaded configuration file for Canary: 116 options available, 0 override(s) found
+[24Apr2025 22:51:59.144] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
+[24Apr2025 22:51:59.145] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
+[24Apr2025 22:51:59.355] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[24Apr2025 22:52:09.331] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[24Apr2025 22:52:09.365] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[24Apr2025 22:52:09.824] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[24Apr2025 22:52:09.824] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[24Apr2025 22:52:10.307] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.4 initializing! Commit hash: 254bb816aee1c056c74b2ad4beb88222a499da78
+[24Apr2025 22:52:11.026] [modloading-worker-0/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[24Apr2025 22:52:11.048] [modloading-worker-0/INFO] [Chunk Pregenerator/]: Loading Plugin: [name=JourneyMap]
+[24Apr2025 22:52:15.102] [main/INFO] [Moonlight/]: Initialized block sets in 14ms
+[24Apr2025 22:52:15.715] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.MechanicalPressRecipe$Serializer@24ace812 has been registered twice for the same name scguns:mechanical_pressing.
+[24Apr2025 22:52:15.715] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.PoweredMechanicalPressRecipe$Serializer@4c02fdd has been registered twice for the same name scguns:powered_mechanical_pressing.
+[24Apr2025 22:52:15.716] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.MaceratorRecipe$Serializer@34c6230 has been registered twice for the same name scguns:macerating.
+[24Apr2025 22:52:15.716] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.PoweredMaceratorRecipe$Serializer@4bb636b0 has been registered twice for the same name scguns:powered_macerating.
+[24Apr2025 22:52:15.716] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.GunBenchRecipe$Serializer@446bd8ed has been registered twice for the same name scguns:gun_bench.
+[24Apr2025 22:52:15.716] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.LightningBatteryRecipe$Serializer@9bf9e18 has been registered twice for the same name scguns:lightning_battery.
+[24Apr2025 22:52:15.716] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.MechanicalPressRecipe$Serializer@24ace812 has been registered twice for the same name scguns:mechanical_pressing.
+[24Apr2025 22:52:15.716] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.PoweredMechanicalPressRecipe$Serializer@4c02fdd has been registered twice for the same name scguns:powered_mechanical_pressing.
+[24Apr2025 22:52:15.717] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.MaceratorRecipe$Serializer@34c6230 has been registered twice for the same name scguns:macerating.
+[24Apr2025 22:52:15.717] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.PoweredMaceratorRecipe$Serializer@4bb636b0 has been registered twice for the same name scguns:powered_macerating.
+[24Apr2025 22:52:15.717] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.GunBenchRecipe$Serializer@446bd8ed has been registered twice for the same name scguns:gun_bench.
+[24Apr2025 22:52:15.717] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.LightningBatteryRecipe$Serializer@9bf9e18 has been registered twice for the same name scguns:lightning_battery.
+[24Apr2025 22:52:16.074] [main/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[24Apr2025 22:52:16.142] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
+[24Apr2025 22:52:16.500] [main/INFO] [Moonlight/]: Initialized color sets in 49ms
+[24Apr2025 22:52:16.667] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[24Apr2025 22:52:16.709] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:aiming for minecraft:player
+[24Apr2025 22:52:16.710] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:reloading for minecraft:player
+[24Apr2025 22:52:16.710] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:shooting for minecraft:player
+[24Apr2025 22:52:16.710] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:burstcount for minecraft:player
+[24Apr2025 22:52:16.710] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:onburstcooldown for minecraft:player
+[24Apr2025 22:52:16.710] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:melee for minecraft:player
+[24Apr2025 22:52:16.758] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[24Apr2025 22:52:16.761] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[24Apr2025 22:52:16.765] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[24Apr2025 22:52:16.765] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[24Apr2025 22:52:17.301] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[24Apr2025 22:52:17.302] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[24Apr2025 22:52:17.371] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.12.17 Target: null
+[24Apr2025 22:52:17.371] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[24Apr2025 22:52:17.896] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: OUTDATED Current: 1.20.1-1.0.15 Target: 1.20.1-1.0.23
+[24Apr2025 22:52:17.900] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
+[24Apr2025 22:52:18.020] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: UP_TO_DATE Current: 0.3.3 Target: null
+[24Apr2025 22:52:18.021] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[24Apr2025 22:52:18.589] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[24Apr2025 22:52:19.307] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[24Apr2025 22:52:21.570] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ServerMinecraft5/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23189!/assets/.mcassetsroot' uses unexpected schema
+[24Apr2025 22:52:21.570] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ServerMinecraft5/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23189!/data/.mcassetsroot' uses unexpected schema
+[24Apr2025 22:52:21.729] [main/INFO] [com.simibubi.create.Create/]: Created 165 recipes which will be injected into the game
+[24Apr2025 22:52:21.739] [main/INFO] [com.simibubi.create.Create/]: Created 0 tags which will be injected into the game
+[24Apr2025 22:52:22.401] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[24Apr2025 22:52:25.340] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/anthralite_ingot_from_smelting_crushed_raw_anthralite
 com.google.gson.JsonSyntaxException: Unknown condition type: scguns:create_mod_loaded
 	at net.minecraftforge.common.crafting.CraftingHelper.getCondition(CraftingHelper.java:231) ~[forge-1.20.1-47.3.7-universal.jar%23194!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.processConditions(CraftingHelper.java:220) ~[forge-1.20.1-47.3.7-universal.jar%23194!/:?]
@@ -101,7 +99,7 @@ com.google.gson.JsonSyntaxException: Unknown condition type: scguns:create_mod_l
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:13.796] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/ingot_anthralite
+[24Apr2025 22:52:25.398] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/ingot_anthralite
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:crusher'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -130,7 +128,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:13.800] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:drilling/phosphor
+[24Apr2025 22:52:25.400] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:drilling/phosphor
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createoreexcavation:drilling'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -159,7 +157,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createo
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:13.815] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/shard/from_ore
+[24Apr2025 22:52:25.417] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/shard/from_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -188,7 +186,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:13.833] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/medium_brass_casing
+[24Apr2025 22:52:25.430] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/medium_brass_casing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -217,7 +215,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:13.836] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_anthralite_2
+[24Apr2025 22:52:25.437] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_anthralite_2
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:hammer_crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -246,7 +244,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:13.844] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/small_brass_casing
+[24Apr2025 22:52:25.447] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/small_brass_casing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -275,7 +273,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:13.859] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:bk
+[24Apr2025 22:52:25.470] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:bk
 com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23194!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23194!/:?]
@@ -308,7 +306,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:13.867] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/clump/from_raw_block
+[24Apr2025 22:52:25.485] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/clump/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -337,7 +335,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:13.880] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:drilling/anthralite
+[24Apr2025 22:52:25.503] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:drilling/anthralite
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createoreexcavation:drilling'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -366,7 +364,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createo
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:13.899] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_anthralite_raw
+[24Apr2025 22:52:25.529] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_anthralite_raw
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:hammer_crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -395,7 +393,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:13.906] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:nca
+[24Apr2025 22:52:25.546] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:nca
 com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23194!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23194!/:?]
@@ -428,7 +426,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:13.907] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:ncc
+[24Apr2025 22:52:25.550] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:ncc
 com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23194!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23194!/:?]
@@ -461,7 +459,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:13.915] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/raw_anthralite
+[24Apr2025 22:52:25.563] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/raw_anthralite
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:crusher'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -490,7 +488,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:13.917] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/ore/deepslate_from_raw
+[24Apr2025 22:52:25.567] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/ore/deepslate_from_raw
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:combining'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -519,7 +517,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:13.919] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_sulfur_chunk
+[24Apr2025 22:52:25.571] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_sulfur_chunk
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:hammer_crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -548,7 +546,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:13.925] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/shard/from_raw_block
+[24Apr2025 22:52:25.578] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/shard/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -577,7 +575,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:13.926] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/clump/from_raw_ore
+[24Apr2025 22:52:25.580] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/clump/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -606,7 +604,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:13.950] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_sulfur
+[24Apr2025 22:52:25.602] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_sulfur
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:hammer_crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -635,7 +633,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:13.960] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/charging/shock_cell
+[24Apr2025 22:52:25.613] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/charging/shock_cell
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createaddition:charging'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -664,7 +662,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createa
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:13.962] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/charging/depleted_energy_core
+[24Apr2025 22:52:25.623] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/charging/depleted_energy_core
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createaddition:charging'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -693,7 +691,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createa
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:13.968] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_anthralite
+[24Apr2025 22:52:25.639] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_anthralite
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:hammer_crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -722,7 +720,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:13.971] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/callwell_conversion_recycling
+[24Apr2025 22:52:25.644] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/callwell_conversion_recycling
 com.google.gson.JsonSyntaxException: Unknown item 'scguns:sawed_off_callwell'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -761,7 +759,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'scguns:sawed_off_callwell'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:13.976] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:pb
+[24Apr2025 22:52:25.651] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:pb
 com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23194!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23194!/:?]
@@ -794,7 +792,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:13.979] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/energizing/charged_amethyst_shard
+[24Apr2025 22:52:25.654] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/energizing/charged_amethyst_shard
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create_new_age:energising'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -823,7 +821,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create_
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:13.984] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/energizing/plasma_block
+[24Apr2025 22:52:25.660] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/energizing/plasma_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create_new_age:energising'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -852,7 +850,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create_
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:13.992] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/energizing/depleted_energy_core
+[24Apr2025 22:52:25.671] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/energizing/depleted_energy_core
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create_new_age:energising'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -881,7 +879,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create_
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.006] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/clump/from_ore
+[24Apr2025 22:52:25.685] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/clump/from_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -910,7 +908,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.013] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/anthralite_ingot_from_blasting_crushed_raw_anthralite
+[24Apr2025 22:52:25.707] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/anthralite_ingot_from_blasting_crushed_raw_anthralite
 com.google.gson.JsonSyntaxException: Unknown condition type: scguns:create_mod_loaded
 	at net.minecraftforge.common.crafting.CraftingHelper.getCondition(CraftingHelper.java:231) ~[forge-1.20.1-47.3.7-universal.jar%23194!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.processConditions(CraftingHelper.java:220) ~[forge-1.20.1-47.3.7-universal.jar%23194!/:?]
@@ -939,7 +937,7 @@ com.google.gson.JsonSyntaxException: Unknown condition type: scguns:create_mod_l
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.014] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/small_iron_casing
+[24Apr2025 22:52:25.709] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/small_iron_casing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -968,7 +966,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.036] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_sulfur_3
+[24Apr2025 22:52:25.745] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_sulfur_3
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:hammer_crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -997,7 +995,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.038] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_sulfur_2
+[24Apr2025 22:52:25.747] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_sulfur_2
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:hammer_crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1026,7 +1024,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.045] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/charging/charged_amethyst_shard
+[24Apr2025 22:52:25.756] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/charging/charged_amethyst_shard
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createaddition:charging'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1055,7 +1053,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createa
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.048] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/large_brass_casing
+[24Apr2025 22:52:25.759] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/large_brass_casing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1084,7 +1082,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.067] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/dust/from_ore
+[24Apr2025 22:52:25.809] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/dust/from_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1113,7 +1111,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.091] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:ore_vein_type/vehement_coal
+[24Apr2025 22:52:25.846] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:ore_vein_type/vehement_coal
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createoreexcavation:vein'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1142,7 +1140,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createo
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.094] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/charging/plasma_core
+[24Apr2025 22:52:25.854] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/charging/plasma_core
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createaddition:charging'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1171,7 +1169,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createa
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.096] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:ore_vein_type/sulfur
+[24Apr2025 22:52:25.859] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:ore_vein_type/sulfur
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createoreexcavation:vein'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1200,7 +1198,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createo
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.097] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/chunk_sulfur
+[24Apr2025 22:52:25.864] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/chunk_sulfur
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:crusher'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1229,7 +1227,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.103] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/large_iron_casing
+[24Apr2025 22:52:25.879] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/large_iron_casing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1258,7 +1256,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.113] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/medium_diamond_steel_casing
+[24Apr2025 22:52:25.899] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/medium_diamond_steel_casing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1287,7 +1285,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.271] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/clump/from_shard
+[24Apr2025 22:52:25.901] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/clump/from_shard
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1316,7 +1314,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.273] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/charging/plasma
+[24Apr2025 22:52:25.903] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/charging/plasma
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createaddition:charging'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1345,7 +1343,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createa
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.288] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/ore_sulfur_2
+[24Apr2025 22:52:25.919] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/ore_sulfur_2
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:crusher'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1374,7 +1372,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.289] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/ore_sulfur_3
+[24Apr2025 22:52:25.921] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/ore_sulfur_3
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:crusher'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1403,7 +1401,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.292] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/ore_sulfur_1
+[24Apr2025 22:52:25.922] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/ore_sulfur_1
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:crusher'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1432,7 +1430,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.294] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/medium_copper_casing
+[24Apr2025 22:52:25.929] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/medium_copper_casing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1461,7 +1459,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.299] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/energizing/plasma_core
+[24Apr2025 22:52:25.944] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/energizing/plasma_core
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create_new_age:energising'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1490,7 +1488,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create_
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.301] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:drilling/sulfur
+[24Apr2025 22:52:25.949] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:drilling/sulfur
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createoreexcavation:drilling'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1519,7 +1517,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createo
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.303] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:ore_vein_type/phosphor
+[24Apr2025 22:52:25.951] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:ore_vein_type/phosphor
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createoreexcavation:vein'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1548,7 +1546,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createo
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.311] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/small_copper_casing
+[24Apr2025 22:52:25.974] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/small_copper_casing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1577,7 +1575,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.317] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/gun_parts
+[24Apr2025 22:52:25.995] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/gun_parts
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1606,7 +1604,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.320] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/heavy_gun_parts
+[24Apr2025 22:52:25.999] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/heavy_gun_parts
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1635,7 +1633,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.326] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/ore_anthralite_2
+[24Apr2025 22:52:26.007] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/ore_anthralite_2
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:crusher'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1664,7 +1662,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.328] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/ore_anthralite_1
+[24Apr2025 22:52:26.009] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/ore_anthralite_1
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:crusher'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1693,7 +1691,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.331] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:drilling/vehement_coal
+[24Apr2025 22:52:26.012] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:drilling/vehement_coal
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createoreexcavation:drilling'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1722,7 +1720,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createo
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.333] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/prima_materia
+[24Apr2025 22:52:26.016] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/prima_materia
 com.google.gson.JsonSyntaxException: Invalid pattern: each row must be the same width
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_44196_(ShapedRecipe.java:256) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:307) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
@@ -1754,7 +1752,7 @@ com.google.gson.JsonSyntaxException: Invalid pattern: each row must be the same 
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.336] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:ore_vein_type/anthralite
+[24Apr2025 22:52:26.027] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:ore_vein_type/anthralite
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createoreexcavation:vein'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1783,7 +1781,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createo
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.337] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/shard/from_raw_ore
+[24Apr2025 22:52:26.028] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/shard/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1812,7 +1810,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.341] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/dirty_dust/from_clump
+[24Apr2025 22:52:26.030] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/dirty_dust/from_clump
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1841,7 +1839,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.343] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/dust/from_ingot
+[24Apr2025 22:52:26.032] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/dust/from_ingot
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1870,7 +1868,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.350] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/empty_cell
+[24Apr2025 22:52:26.044] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/empty_cell
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1899,7 +1897,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.353] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/ore/from_raw
+[24Apr2025 22:52:26.047] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/ore/from_raw
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:combining'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1928,7 +1926,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.355] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/energizing/plasma
+[24Apr2025 22:52:26.601] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/energizing/plasma
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create_new_age:energising'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1957,7 +1955,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create_
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.359] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/small_diamond_steel_casing
+[24Apr2025 22:52:26.610] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/small_diamond_steel_casing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1986,7 +1984,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.363] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/shulker_casing
+[24Apr2025 22:52:26.614] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/shulker_casing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2015,7 +2013,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.664] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/charging/plasma_block
+[24Apr2025 22:52:26.623] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/charging/plasma_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createaddition:charging'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2044,7 +2042,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createa
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.671] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/dust/from_dirty_dust
+[24Apr2025 22:52:26.627] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/dust/from_dirty_dust
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2073,7 +2071,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.677] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/dust/from_raw_ore
+[24Apr2025 22:52:26.635] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/dust/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2102,7 +2100,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.694] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/dust/from_raw_block
+[24Apr2025 22:52:26.658] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/dust/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2131,7 +2129,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.696] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:b
+[24Apr2025 22:52:26.659] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:b
 com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23194!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23194!/:?]
@@ -2164,7 +2162,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.697] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/energizing/shock_cell
+[24Apr2025 22:52:26.661] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/energizing/shock_cell
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create_new_age:energising'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2193,8 +2191,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create_
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Apr2025 18:22:14.702] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 31 recipes
-[24Apr2025 18:22:14.703] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
+[24Apr2025 22:52:26.668] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 31 recipes
+[24Apr2025 22:52:26.669] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -2210,54 +2208,55 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[24Apr2025 18:22:14.962] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3188 advancements
-[24Apr2025 18:22:15.002] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
-[24Apr2025 18:22:15.012] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[24Apr2025 18:22:16.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[24Apr2025 18:22:16.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[24Apr2025 18:22:16.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[24Apr2025 18:22:16.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[24Apr2025 18:22:16.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[24Apr2025 18:22:16.639] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[24Apr2025 18:22:16.745] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[24Apr2025 18:22:16.746] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[24Apr2025 18:22:16.747] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[24Apr2025 18:22:16.747] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[24Apr2025 18:22:16.825] [Server thread/INFO] [portb.configlib.ConfigLib/]: Could not find config, falling back to default legacy ruleset
-[24Apr2025 18:22:16.827] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Starting config file watcher
-[24Apr2025 18:22:16.854] [Server thread/INFO] [Framework/]: Loading server configs...
-[24Apr2025 18:22:16.859] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:the_nether
-[24Apr2025 18:22:16.860] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:overworld
-[24Apr2025 18:22:16.860] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[24Apr2025 18:22:17.625] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[24Apr2025 18:22:23.138] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[24Apr2025 18:22:24.028] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[24Apr2025 18:22:24.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[24Apr2025 18:22:29.910] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Apr2025 18:22:29.938] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Apr2025 18:22:29.945] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Apr2025 18:22:29.952] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Apr2025 18:22:29.963] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Apr2025 18:22:29.968] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Apr2025 18:22:29.977] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Apr2025 18:22:30.022] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Apr2025 18:22:30.029] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Apr2025 18:22:30.040] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Apr2025 18:22:30.043] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Apr2025 18:22:30.046] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Apr2025 18:22:30.049] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Apr2025 18:22:30.536] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Apr2025 18:22:31.034] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Apr2025 18:22:31.533] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
-[24Apr2025 18:22:32.034] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 56%
-[24Apr2025 18:22:32.534] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 93%
-[24Apr2025 18:22:32.587] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8554 ms
-[24Apr2025 18:22:32.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.824s)! For help, type "help"
-[24Apr2025 18:22:32.726] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[24Apr2025 18:23:37.106] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3655f6c7[id=<null>,name=Zombie62002,properties={},legacy=false] (/127.109.46.254:59673) lost connection: Disconnected
-[24Apr2025 18:23:44.738] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:35977] logged in with entity id 69 at (-703.9619965956568, 63.0, 365.48812619757484)
-[24Apr2025 18:23:44.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
-[24Apr2025 18:23:47.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2338ms or 46 ticks behind
-[24Apr2025 18:24:19.021] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/999, l='ServerLevel[world]', x=-530.85, y=71.00, z=592.02]
-[24Apr2025 18:24:19.022] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cow['Cow'/1009, l='ServerLevel[world]', x=-633.99, y=68.00, z=592.02]
-[24Apr2025 18:26:07.813] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Sheep['Sheep'/1682, l='ServerLevel[world]', x=-779.46, y=72.00, z=624.03]
+[24Apr2025 22:52:26.917] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3188 advancements
+[24Apr2025 22:52:26.949] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
+[24Apr2025 22:52:26.957] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[24Apr2025 22:52:28.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[24Apr2025 22:52:28.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[24Apr2025 22:52:28.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[24Apr2025 22:52:28.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[24Apr2025 22:52:28.736] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[24Apr2025 22:52:28.891] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[24Apr2025 22:52:29.019] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[24Apr2025 22:52:29.020] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[24Apr2025 22:52:29.020] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[24Apr2025 22:52:29.020] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[24Apr2025 22:52:29.106] [Server thread/INFO] [portb.configlib.ConfigLib/]: Could not find config, falling back to default legacy ruleset
+[24Apr2025 22:52:29.111] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Starting config file watcher
+[24Apr2025 22:52:29.151] [Server thread/INFO] [Framework/]: Loading server configs...
+[24Apr2025 22:52:29.157] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:the_nether
+[24Apr2025 22:52:29.158] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:overworld
+[24Apr2025 22:52:29.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[24Apr2025 22:52:29.952] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[24Apr2025 22:52:35.452] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[24Apr2025 22:52:36.626] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[24Apr2025 22:52:36.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[24Apr2025 22:52:43.281] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Apr2025 22:52:43.380] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Apr2025 22:52:43.407] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Apr2025 22:52:43.408] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Apr2025 22:52:43.409] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Apr2025 22:52:43.413] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Apr2025 22:52:43.414] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Apr2025 22:52:43.416] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Apr2025 22:52:43.418] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Apr2025 22:52:43.420] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Apr2025 22:52:43.424] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Apr2025 22:52:43.428] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Apr2025 22:52:43.430] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Apr2025 22:52:43.431] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Apr2025 22:52:43.632] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Apr2025 22:52:44.132] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 20%
+[24Apr2025 22:52:44.632] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 77%
+[24Apr2025 22:52:44.914] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8283 ms
+[24Apr2025 22:52:44.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.877s)! For help, type "help"
+[24Apr2025 22:52:45.242] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[24Apr2025 22:56:57.590] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:33363] logged in with entity id 68 at (-767.3090170098366, 69.0, 374.05931407191093)
+[24Apr2025 22:56:57.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[24Apr2025 22:57:00.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2510ms or 50 ticks behind
+[24Apr2025 22:57:15.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> server starto
+[24Apr2025 22:57:26.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> no lagearas dijo la santa biblia
+[24Apr2025 22:57:30.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> no lagees
+[24Apr2025 22:57:32.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> que
+[24Apr2025 22:57:34.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ya
+[24Apr2025 22:58:48.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asfd
