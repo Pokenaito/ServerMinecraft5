@@ -6772,7 +6772,19 @@
     },
     "done": true
   },
+  "scguns:main/craft_macerator": {
+    "criteria": {
+      "macerator": "2025-04-23 23:35:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-04-23 23:36:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-04-23 23:36:12 +0000"
     },
@@ -6781,18 +6793,6 @@
   "scguns:main/craft_stamping_press": {
     "criteria": {
       "stamping_press": "2025-04-23 23:36:58 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/craft_macerator": {
-    "criteria": {
-      "macerator": "2025-04-23 23:35:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2025-04-23 23:36:12 +0000"
     },
     "done": true
   },
