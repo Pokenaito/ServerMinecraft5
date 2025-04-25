@@ -6858,6 +6858,12 @@
     },
     "done": true
   },
+  "undead_revamp2:nightnight": {
+    "criteria": {
+      "nightnight_0": "2025-04-25 00:26:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-04-24 23:53:25 +0000"
